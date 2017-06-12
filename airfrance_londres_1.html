@@ -1,0 +1,952 @@
+<div class="pnl-actions">
+    <button type="button" class="btn" data-collapse="panel" aria-expanded="true">
+        <span data-icon="D" aria-hidden="true"></span>
+        <span class="results-summary">
+            <b>Liste de vols au départ de:</b>
+            <strong>Londres</strong>
+        </span>
+        <span class="results-count">(
+            <span data-total-format="{length} resultats">5 resultats</span>)
+        </span>
+    </button>
+    <button type="button" class="btn" data-expand="panel" aria-expanded="false">
+        <span data-icon="»" aria-hidden="true"></span>
+        <span class="results-summary">
+            <b>Liste de vols au départ de:</b>
+            <strong>Londres</strong>
+        </span>
+        <span class="results-count">(
+            <span data-total-format="{length} resultats">5 resultats</span>)
+        </span>
+    </button>
+</div>
+<div class="pnl-content" data-results-minimised="false">
+    <header class="clearfix">
+        <form class="results-filter" data-prefix="Destinations" data-share-form="">
+            <input id="Destinations_From" name="Destinations.From" type="hidden" value="Londres" />
+            <input id="Destinations_FromId" name="Destinations.FromId" type="hidden" value="LON" />
+            <input id="Destinations_FromLocationType" name="Destinations.FromLocationType" type="hidden" value="1" />
+            <input id="Destinations_Carrier" name="Destinations.Carrier" type="hidden" value="" />
+            <input id="Destinations_CarrierId" name="Destinations.CarrierId" type="hidden" value="" />
+            <input id="Destinations_Connections" name="Destinations.Connections" type="hidden" value="false" />
+            <input id="Destinations_NonStop" name="Destinations.NonStop" type="hidden" value="false" />
+            <input id="Destinations_CodeShares" name="Destinations.CodeShares" type="hidden" value="true" />
+            <input id="Destinations_ShowAsList" name="Destinations.ShowAsList" type="hidden" value="False" />
+            <div class="pagingwrapper"></div>
+            <div class="results-filter-fields">
+                <div class="field">
+                    <h3>
+                        <a href="#dropdown-filter-sort" class="dropdown-toggle th-activecolor" data-dropdown="#dropdown-filter-sort" data-default='{"val": "ArrivalCity"}'>
+                            <span data-icon="D" aria-hidden="true"></span>Trier par&#160;:
+                        </a>
+                    </h3>
+                    <div class="dropdown dropdown-relative dropdown-tip dropdown-anchor-bottom dropdown-anchor-right" id="dropdown-filter-sort">
+                        <ul class="dropdown-menu">
+                            <li>
+                                <label>
+                                    <input type="radio" name="SortBy" value="ArrivalCity"  checked=&quot;checked&quot;>
+                                    <span>Destination</span>
+                                </label>
+                            </li>
+                            <li>
+                                <label>
+                                    <input type="radio" name="SortBy" value="NumberStops" >
+                                    <span>Nombre d&#39;escales</span>
+                                </label>
+                            </li>
+                            <li>
+                                <label>
+                                    <input type="radio" name="SortBy" value="Distance" >
+                                    <span>Distance</span>
+                                </label>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </form>
+    </header>
+    <div class="share-results-wrapper">
+        <div class="field">
+            <div class="dropdown dropdown-relative dropdown-tip dropdown-anchor-bottom dropdown-anchor-right dropdown-anchor-left-rtl" id="dropdown-results-share">
+                <div class="dropdown-menu share-results">
+                    <form class="share-results-section" method="post" data-save-type="destinations">
+                        <h2>Enregistrer la recherche</h2>
+                        <button class="btn th-d-bg" data-share-action="save">Enregistrer
+                            <span data-icon="▼" aria-hidden="true"></span>
+                        </button>
+                    </form>
+                    <section class="share-results-section">
+                        <h2>R&#233;sultats d’impression</h2>
+                        <button type="button" class="btn th-d-bg" data-share-action="print">Imprimer
+                            <span data-icon="¶" aria-hidden="true"></span>
+                        </button>
+                    </section>
+                    <form class="share-results-section" action="/fr/fr/EmailDestinations" method="post">
+                        <h2>R&#233;sultats de courriel</h2>
+                        <div class="share-to-and-from">
+                            <div class="field">
+                                <label for="sendResultsEmail">&#192;</label>
+                                <input data-customval="" id="sendResultsEmail" name="email" type="text" value="" />
+                                <span id="Error_sendResultsEmail" class="field-validation-valid" data-customval-for="sendResultsEmail">Veuillez entrer une adresse &#233;lectronique valide.</span>
+                            </div>
+                            <div class="field">
+                                <label for="sendResultsEmailFrom">De</label>
+                                <input data-customval="" id="sendResultsEmailFrom" name="emailFrom" type="text" value="" />
+                                <span id="Error_sendResultsEmailFrom" class="field-validation-valid" data-customval-for="sendResultsEmailFrom">Veuillez entrer une adresse &#233;lectronique valide.</span>
+                            </div>
+                        </div>
+                        <button class="btn th-d-bg" data-share-action="email">Envoyer
+                            <span data-icon="@" aria-hidden="true"></span>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="field">
+            <div class="dropdown dropdown-relative dropdown-tip dropdown-anchor-top dropdown-anchor-right dropdown-anchor-left-rtl" id="dropdown-share-details">
+                <div class="dropdown-menu share-details">
+                    <section class="share-details-section">
+                        <h2>R&#233;sultats d’impression</h2>
+                        <button type="button" class="btn th-d-bg" data-share-action="print">Imprimer
+                            <span data-icon="¶" aria-hidden="true"></span>
+                        </button>
+                    </section>
+                    <form class="share-details-section" action="/fr/fr/EmailDestinationsDetails" method="post">
+                        <input type="hidden" name="flightmapuid" id="FlightMapUid" />
+                        <h2>R&#233;sultats de courriel</h2>
+                        <div class="share-to-and-from">
+                            <div class="field">
+                                <label for="sendDetailsEmail">&#192;</label>
+                                <input data-customval="" id="sendDetailsEmail" name="email" type="text" value="" />
+                                <span id="Error_sendDetailsEmail" class="field-validation-valid" data-customval-for="sendDetailsEmail">Veuillez entrer une adresse &#233;lectronique valide.</span>
+                            </div>
+                            <div class="field">
+                                <label for="sendDetailsEmailFrom">De</label>
+                                <input data-customval="" id="sendDetailsEmailFrom" name="emailFrom" type="text" value="" />
+                                <span id="Error_sendDetailsEmailFrom" class="field-validation-valid" data-customval-for="sendResultsEmailFrom">Veuillez entrer une adresse &#233;lectronique valide.</span>
+                            </div>
+                        </div>
+                        <button class="btn th-d-bg" data-share-action="email">Envoyer
+                            <span data-icon="@" aria-hidden="true"></span>
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="results-scroller">
+        <div class="results-wrapper results-routes">
+            <div class="results-area results-list" data-total="5" data-booking-general='{"CustomerCode":"af","Language":"fr","Region":"fr","QueryType":0,"IsMobile":false}'>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>
+                                <span class="ico" data-icon="F" aria-hidden="true"></span> Au d&#233;part de
+                            </th>
+                            <th>
+                                <span class="ico" data-icon="T" aria-hidden="true"></span> &#192; destination de
+                            </th>
+                            <th>
+                                <span class="ico" data-icon="N" aria-hidden="true"></span> Arr&#234;t/Correspondance
+                            </th>
+                            <th>
+                                <span class="ico" data-icon="P" aria-hidden="true"></span> Compagnie a&#233;rienne
+                            </th>
+                            <th>
+                                <span class="ico" data-icon="R" aria-hidden="true"></span> Distance
+                            </th>
+                            <td>
+                                <a href="#dropdown-results-share" class="btn btn-sml dropdown-toggle share-results-button" data-dropdown="#dropdown-results-share">Partager les r&#233;sultats
+                                    <span data-icon="X" aria-hidden="true"></span>
+                                </a>
+                            </td>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr class="th-l-activebg" id="result-summary-0">
+                            <td class="col-airport">
+							Londres (LCY)
+
+                                <small>A&#233;roport de London City</small>
+                                <small>Royaume-Uni</small>
+                            </td>
+                            <td class="col-airport">
+							Amsterdam (AMS)
+
+                                <small>A&#233;roport d&#39; Amsterdam-Schiphol</small>
+                                <small>Pays-Bas</small>
+                            </td>
+                            <td class="col-connect">
+                                <p>
+Non-stop</p>
+                            </td>
+                            <td class="col-airline">
+                                <p>
+        KLM
+
+                                    <small>(liaison assurée par
+                                        <strong>KLM Cityhopper</strong>)
+                                    </small>
+                                </p>
+                            </td>
+                            <td class="col-distance">335 km</td>
+                            <td class="col-action">
+                                <a href="#result-detail-0" data-toggle="result-details" class="btn btn-sml">D&#233;tails
+                                    <span data-icon="r" aria-hidden="true"></span>
+                                </a>
+                                <a href="javascript:void(0)" class="btn btn-sml th-d-bg" data-booking-link='{"DepartCode":"LCY","ArriveCode":"AMS","DepartDate":"2017-02-17","IsCharter":false,"ViaCities":null,"CarrierCode":"KL","DepartCityCode":"LON","ArriveCityCode":"AMS","DepartCountryCode":"GB","ArriveCountryCode":"NL","IsReturn":false}' data-booking-link-num="0">R&#233;server
+                                    <span data-icon="E" aria-hidden="true"></span>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr class="results-list-details" id="result-detail-0">
+                            <td colspan="5">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>
+                                                <span class="ico" data-icon="F" aria-hidden="true"></span> Depart de:
+                                            </th>
+                                            <th>
+                                                <span class="ico" data-icon="T" aria-hidden="true"></span> Aller &#224;:
+                                            </th>
+                                            <th>
+                                                <span class="ico" data-icon="P" aria-hidden="true"></span> Compagnie a&#233;rienne:
+                                            </th>
+                                            <td class="col-action">
+                                                <a href="#dropdown-share-details" class="btn btn-sml dropdown-toggle share-details-button" data-share-action="details" data-details-id="9f498672-2c98-443e-a238-fec90ecaed36" data-dropdown="#dropdown-share-details">Partager les d&#233;tails
+                                                    <span data-icon="X" aria-hidden="true"></span>
+                                                </a>
+                                                <a href="#result-summary-0" data-toggle="result-summary" class="btn btn-sml">
+                                                    <span data-icon="l" aria-hidden="true"></span> Retour
+                                                </a>
+                                                <a href="javascript:void(0)" class="btn btn-sml th-d-bg" data-booking-link='{"DepartCode":"LCY","ArriveCode":"AMS","DepartDate":"2017-02-17","IsCharter":false,"ViaCities":null,"CarrierCode":"KL","DepartCityCode":"LON","ArriveCityCode":"AMS","DepartCountryCode":"GB","ArriveCountryCode":"NL","IsReturn":false}' data-booking-link-num="0">
+                                                    <span data-icon="E" aria-hidden="true"></span> R&#233;server
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </thead>
+                                    <tfoot>
+                                        <tr>
+                                            <td colspan="4">
+                                                <a href="javascript:void(0)" class="th-color" data-search='{"type":"flights","From":"Aéroport de London City","FromId":"LCY","FromLocationType":0,"To":"Aéroport d\u0027 Amsterdam-Schiphol","ToId":"AMS","ToLocationType":0,"DepartingOn":"17/02/2017"}'>
+                                                    <span data-icon="E" aria-hidden="true"></span> Le vol d&#39;aujourd hui sur cet itineraire
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tfoot>
+                                    <tbody>
+                                        <tr>
+                                            <td colspan="3">
+                                                <h2>Un seul tron&#231;on</h2>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">A&#233;roport&#160;:</span>
+                                                <span class="detail-value">A&#233;roport de London City
+                                                    <small>(LCY)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=51.5053,0.0553&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">A&#233;roport&#160;:</span>
+                                                <span class="detail-value">A&#233;roport d&#39; Amsterdam-Schiphol
+                                                    <small>(AMS)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=52.3086,4.7639&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Compagnie a&#233;rienne:</span>
+                                                <span class="detail-value">
+                                                    <p>
+        KLM
+
+                                                        <small>(liaison assurée par
+                                                            <strong>KLM Cityhopper</strong>)
+                                                        </small>
+                                                    </p>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">Ville&#160;:</span>
+                                                <span class="detail-value">Londres
+                                                    <small>(LON)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=51.51,-0.13&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Ville&#160;:</span>
+                                                <span class="detail-value">Amsterdam
+                                                    <small>(AMS)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=52.37,4.9&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Escales:</span>
+                                                <span class="detail-value">
+                                                    <p>
+Non-stop</p>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">Pays&#160;:</span>
+                                                <span class="detail-value">Royaume-Uni
+                                                    <small>(GB)</small>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Pays&#160;:</span>
+                                                <span class="detail-value">Pays-Bas
+                                                    <small>(NL)</small>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Distance:</span>
+                                                <span class="detail-value">335 km</span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr class="th-l-activebg" id="result-summary-1">
+                            <td class="col-airport">
+							Londres (LHR)
+
+                                <small>A&#233;roport d&#39; Heathrow</small>
+                                <small>Royaume-Uni</small>
+                            </td>
+                            <td class="col-airport">
+							Amsterdam (AMS)
+
+                                <small>A&#233;roport d&#39; Amsterdam-Schiphol</small>
+                                <small>Pays-Bas</small>
+                            </td>
+                            <td class="col-connect">
+                                <p>
+Non-stop</p>
+                            </td>
+                            <td class="col-airline">
+                                <p>
+        KLM
+    </p>
+                            </td>
+                            <td class="col-distance">370 km</td>
+                            <td class="col-action">
+                                <a href="#result-detail-1" data-toggle="result-details" class="btn btn-sml">D&#233;tails
+                                    <span data-icon="r" aria-hidden="true"></span>
+                                </a>
+                                <a href="javascript:void(0)" class="btn btn-sml th-d-bg" data-booking-link='{"DepartCode":"LHR","ArriveCode":"AMS","DepartDate":"2017-02-17","IsCharter":false,"ViaCities":null,"CarrierCode":"KL","DepartCityCode":"LON","ArriveCityCode":"AMS","DepartCountryCode":"GB","ArriveCountryCode":"NL","IsReturn":false}' data-booking-link-num="0">R&#233;server
+                                    <span data-icon="E" aria-hidden="true"></span>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr class="results-list-details" id="result-detail-1">
+                            <td colspan="5">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>
+                                                <span class="ico" data-icon="F" aria-hidden="true"></span> Depart de:
+                                            </th>
+                                            <th>
+                                                <span class="ico" data-icon="T" aria-hidden="true"></span> Aller &#224;:
+                                            </th>
+                                            <th>
+                                                <span class="ico" data-icon="P" aria-hidden="true"></span> Compagnie a&#233;rienne:
+                                            </th>
+                                            <td class="col-action">
+                                                <a href="#dropdown-share-details" class="btn btn-sml dropdown-toggle share-details-button" data-share-action="details" data-details-id="d76af3dd-bab0-4741-8ed0-e9bbe13d6db6" data-dropdown="#dropdown-share-details">Partager les d&#233;tails
+                                                    <span data-icon="X" aria-hidden="true"></span>
+                                                </a>
+                                                <a href="#result-summary-1" data-toggle="result-summary" class="btn btn-sml">
+                                                    <span data-icon="l" aria-hidden="true"></span> Retour
+                                                </a>
+                                                <a href="javascript:void(0)" class="btn btn-sml th-d-bg" data-booking-link='{"DepartCode":"LHR","ArriveCode":"AMS","DepartDate":"2017-02-17","IsCharter":false,"ViaCities":null,"CarrierCode":"KL","DepartCityCode":"LON","ArriveCityCode":"AMS","DepartCountryCode":"GB","ArriveCountryCode":"NL","IsReturn":false}' data-booking-link-num="0">
+                                                    <span data-icon="E" aria-hidden="true"></span> R&#233;server
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </thead>
+                                    <tfoot>
+                                        <tr>
+                                            <td colspan="4">
+                                                <a href="javascript:void(0)" class="th-color" data-search='{"type":"flights","From":"Aéroport d\u0027 Heathrow","FromId":"LHR","FromLocationType":0,"To":"Aéroport d\u0027 Amsterdam-Schiphol","ToId":"AMS","ToLocationType":0,"DepartingOn":"17/02/2017"}'>
+                                                    <span data-icon="E" aria-hidden="true"></span> Le vol d&#39;aujourd hui sur cet itineraire
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tfoot>
+                                    <tbody>
+                                        <tr>
+                                            <td colspan="3">
+                                                <h2>Un seul tron&#231;on</h2>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">A&#233;roport&#160;:</span>
+                                                <span class="detail-value">A&#233;roport d&#39; Heathrow
+                                                    <small>(LHR)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=51.4714,-0.4528&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">A&#233;roport&#160;:</span>
+                                                <span class="detail-value">A&#233;roport d&#39; Amsterdam-Schiphol
+                                                    <small>(AMS)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=52.3086,4.7639&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Compagnie a&#233;rienne:</span>
+                                                <span class="detail-value">
+                                                    <p>
+        KLM
+    </p>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">Ville&#160;:</span>
+                                                <span class="detail-value">Londres
+                                                    <small>(LON)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=51.51,-0.13&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Ville&#160;:</span>
+                                                <span class="detail-value">Amsterdam
+                                                    <small>(AMS)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=52.37,4.9&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Escales:</span>
+                                                <span class="detail-value">
+                                                    <p>
+Non-stop</p>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">Pays&#160;:</span>
+                                                <span class="detail-value">Royaume-Uni
+                                                    <small>(GB)</small>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Pays&#160;:</span>
+                                                <span class="detail-value">Pays-Bas
+                                                    <small>(NL)</small>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Distance:</span>
+                                                <span class="detail-value">370 km</span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr class="th-l-activebg" id="result-summary-2">
+                            <td class="col-airport">
+							Londres (LHR)
+
+                                <small>A&#233;roport d&#39; Heathrow</small>
+                                <small>Royaume-Uni</small>
+                            </td>
+                            <td class="col-airport">
+							Amsterdam (AMS)
+
+                                <small>A&#233;roport d&#39; Amsterdam-Schiphol</small>
+                                <small>Pays-Bas</small>
+                            </td>
+                            <td class="col-connect">
+                                <p>
+Non-stop</p>
+                            </td>
+                            <td class="col-airline">
+                                <p>
+        KLM
+
+                                    <small>(liaison assurée par
+                                        <strong>KLM Cityhopper</strong>)
+                                    </small>
+                                </p>
+                            </td>
+                            <td class="col-distance">370 km</td>
+                            <td class="col-action">
+                                <a href="#result-detail-2" data-toggle="result-details" class="btn btn-sml">D&#233;tails
+                                    <span data-icon="r" aria-hidden="true"></span>
+                                </a>
+                                <a href="javascript:void(0)" class="btn btn-sml th-d-bg" data-booking-link='{"DepartCode":"LHR","ArriveCode":"AMS","DepartDate":"2017-02-17","IsCharter":false,"ViaCities":null,"CarrierCode":"KL","DepartCityCode":"LON","ArriveCityCode":"AMS","DepartCountryCode":"GB","ArriveCountryCode":"NL","IsReturn":false}' data-booking-link-num="0">R&#233;server
+                                    <span data-icon="E" aria-hidden="true"></span>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr class="results-list-details" id="result-detail-2">
+                            <td colspan="5">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>
+                                                <span class="ico" data-icon="F" aria-hidden="true"></span> Depart de:
+                                            </th>
+                                            <th>
+                                                <span class="ico" data-icon="T" aria-hidden="true"></span> Aller &#224;:
+                                            </th>
+                                            <th>
+                                                <span class="ico" data-icon="P" aria-hidden="true"></span> Compagnie a&#233;rienne:
+                                            </th>
+                                            <td class="col-action">
+                                                <a href="#dropdown-share-details" class="btn btn-sml dropdown-toggle share-details-button" data-share-action="details" data-details-id="85ff6bda-632c-4c5b-ad61-fc0e69fdef47" data-dropdown="#dropdown-share-details">Partager les d&#233;tails
+                                                    <span data-icon="X" aria-hidden="true"></span>
+                                                </a>
+                                                <a href="#result-summary-2" data-toggle="result-summary" class="btn btn-sml">
+                                                    <span data-icon="l" aria-hidden="true"></span> Retour
+                                                </a>
+                                                <a href="javascript:void(0)" class="btn btn-sml th-d-bg" data-booking-link='{"DepartCode":"LHR","ArriveCode":"AMS","DepartDate":"2017-02-17","IsCharter":false,"ViaCities":null,"CarrierCode":"KL","DepartCityCode":"LON","ArriveCityCode":"AMS","DepartCountryCode":"GB","ArriveCountryCode":"NL","IsReturn":false}' data-booking-link-num="0">
+                                                    <span data-icon="E" aria-hidden="true"></span> R&#233;server
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </thead>
+                                    <tfoot>
+                                        <tr>
+                                            <td colspan="4">
+                                                <a href="javascript:void(0)" class="th-color" data-search='{"type":"flights","From":"Aéroport d\u0027 Heathrow","FromId":"LHR","FromLocationType":0,"To":"Aéroport d\u0027 Amsterdam-Schiphol","ToId":"AMS","ToLocationType":0,"DepartingOn":"17/02/2017"}'>
+                                                    <span data-icon="E" aria-hidden="true"></span> Le vol d&#39;aujourd hui sur cet itineraire
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tfoot>
+                                    <tbody>
+                                        <tr>
+                                            <td colspan="3">
+                                                <h2>Un seul tron&#231;on</h2>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">A&#233;roport&#160;:</span>
+                                                <span class="detail-value">A&#233;roport d&#39; Heathrow
+                                                    <small>(LHR)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=51.4714,-0.4528&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">A&#233;roport&#160;:</span>
+                                                <span class="detail-value">A&#233;roport d&#39; Amsterdam-Schiphol
+                                                    <small>(AMS)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=52.3086,4.7639&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Compagnie a&#233;rienne:</span>
+                                                <span class="detail-value">
+                                                    <p>
+        KLM
+
+                                                        <small>(liaison assurée par
+                                                            <strong>KLM Cityhopper</strong>)
+                                                        </small>
+                                                    </p>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">Ville&#160;:</span>
+                                                <span class="detail-value">Londres
+                                                    <small>(LON)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=51.51,-0.13&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Ville&#160;:</span>
+                                                <span class="detail-value">Amsterdam
+                                                    <small>(AMS)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=52.37,4.9&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Escales:</span>
+                                                <span class="detail-value">
+                                                    <p>
+Non-stop</p>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">Pays&#160;:</span>
+                                                <span class="detail-value">Royaume-Uni
+                                                    <small>(GB)</small>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Pays&#160;:</span>
+                                                <span class="detail-value">Pays-Bas
+                                                    <small>(NL)</small>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Distance:</span>
+                                                <span class="detail-value">370 km</span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr class="th-l-activebg" id="result-summary-3">
+                            <td class="col-airport">
+							Londres (LHR)
+
+                                <small>A&#233;roport d&#39; Heathrow</small>
+                                <small>Royaume-Uni</small>
+                            </td>
+                            <td class="col-airport">
+							Paris (CDG)
+
+                                <small>A&#233;roport de Charles De Gaulle</small>
+                                <small>France</small>
+                            </td>
+                            <td class="col-connect">
+                                <p>
+Non-stop</p>
+                            </td>
+                            <td class="col-airline">
+                                <p>
+        Air France
+    </p>
+                            </td>
+                            <td class="col-distance">348 km</td>
+                            <td class="col-action">
+                                <a href="#result-detail-3" data-toggle="result-details" class="btn btn-sml">D&#233;tails
+                                    <span data-icon="r" aria-hidden="true"></span>
+                                </a>
+                                <a href="javascript:void(0)" class="btn btn-sml th-d-bg" data-booking-link='{"DepartCode":"LHR","ArriveCode":"CDG","DepartDate":"2017-02-17","IsCharter":false,"ViaCities":null,"CarrierCode":"AF","DepartCityCode":"LON","ArriveCityCode":"PAR","DepartCountryCode":"GB","ArriveCountryCode":"FR","IsReturn":false}' data-booking-link-num="0">R&#233;server
+                                    <span data-icon="E" aria-hidden="true"></span>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr class="results-list-details" id="result-detail-3">
+                            <td colspan="5">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>
+                                                <span class="ico" data-icon="F" aria-hidden="true"></span> Depart de:
+                                            </th>
+                                            <th>
+                                                <span class="ico" data-icon="T" aria-hidden="true"></span> Aller &#224;:
+                                            </th>
+                                            <th>
+                                                <span class="ico" data-icon="P" aria-hidden="true"></span> Compagnie a&#233;rienne:
+                                            </th>
+                                            <td class="col-action">
+                                                <a href="#dropdown-share-details" class="btn btn-sml dropdown-toggle share-details-button" data-share-action="details" data-details-id="ffb4c19d-bd72-4978-9e73-fde003770e57" data-dropdown="#dropdown-share-details">Partager les d&#233;tails
+                                                    <span data-icon="X" aria-hidden="true"></span>
+                                                </a>
+                                                <a href="#result-summary-3" data-toggle="result-summary" class="btn btn-sml">
+                                                    <span data-icon="l" aria-hidden="true"></span> Retour
+                                                </a>
+                                                <a href="javascript:void(0)" class="btn btn-sml th-d-bg" data-booking-link='{"DepartCode":"LHR","ArriveCode":"CDG","DepartDate":"2017-02-17","IsCharter":false,"ViaCities":null,"CarrierCode":"AF","DepartCityCode":"LON","ArriveCityCode":"PAR","DepartCountryCode":"GB","ArriveCountryCode":"FR","IsReturn":false}' data-booking-link-num="0">
+                                                    <span data-icon="E" aria-hidden="true"></span> R&#233;server
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </thead>
+                                    <tfoot>
+                                        <tr>
+                                            <td colspan="4">
+                                                <a href="javascript:void(0)" class="th-color" data-search='{"type":"flights","From":"Aéroport d\u0027 Heathrow","FromId":"LHR","FromLocationType":0,"To":"Aéroport de Charles De Gaulle","ToId":"CDG","ToLocationType":0,"DepartingOn":"17/02/2017"}'>
+                                                    <span data-icon="E" aria-hidden="true"></span> Le vol d&#39;aujourd hui sur cet itineraire
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tfoot>
+                                    <tbody>
+                                        <tr>
+                                            <td colspan="3">
+                                                <h2>Un seul tron&#231;on</h2>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">A&#233;roport&#160;:</span>
+                                                <span class="detail-value">A&#233;roport d&#39; Heathrow
+                                                    <small>(LHR)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=51.4714,-0.4528&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">A&#233;roport&#160;:</span>
+                                                <span class="detail-value">A&#233;roport de Charles De Gaulle
+                                                    <small>(CDG)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=49.0097,2.5486&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Compagnie a&#233;rienne:</span>
+                                                <span class="detail-value">
+                                                    <p>
+        Air France
+    </p>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">Ville&#160;:</span>
+                                                <span class="detail-value">Londres
+                                                    <small>(LON)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=51.51,-0.13&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Ville&#160;:</span>
+                                                <span class="detail-value">Paris
+                                                    <small>(PAR)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=48.86,2.35&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Escales:</span>
+                                                <span class="detail-value">
+                                                    <p>
+Non-stop</p>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">Pays&#160;:</span>
+                                                <span class="detail-value">Royaume-Uni
+                                                    <small>(GB)</small>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Pays&#160;:</span>
+                                                <span class="detail-value">France
+                                                    <small>(FR)</small>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Distance:</span>
+                                                <span class="detail-value">348 km</span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                    <tbody>
+                        <tr class="th-l-activebg" id="result-summary-4">
+                            <td class="col-airport">
+							Londres (LTN)
+
+                                <small>A&#233;roport de Luton</small>
+                                <small>Royaume-Uni</small>
+                            </td>
+                            <td class="col-airport">
+							Paris (ORY)
+
+                                <small>A&#233;roport de Paris-Orly</small>
+                                <small>France</small>
+                            </td>
+                            <td class="col-connect">
+                                <p>
+Non-stop</p>
+                            </td>
+                            <td class="col-airline">
+                                <p>
+        Transavia France
+    </p>
+                            </td>
+                            <td class="col-distance">401 km</td>
+                            <td class="col-action">
+                                <a href="#result-detail-4" data-toggle="result-details" class="btn btn-sml">D&#233;tails
+                                    <span data-icon="r" aria-hidden="true"></span>
+                                </a>
+                                <a href="javascript:void(0)" class="btn btn-sml th-d-bg" data-booking-link='{"DepartCode":"LTN","ArriveCode":"ORY","DepartDate":"2017-02-17","IsCharter":false,"ViaCities":null,"CarrierCode":"TO","DepartCityCode":"LON","ArriveCityCode":"PAR","DepartCountryCode":"GB","ArriveCountryCode":"FR","IsReturn":false}' data-booking-link-num="0">R&#233;server
+                                    <span data-icon="E" aria-hidden="true"></span>
+                                </a>
+                            </td>
+                        </tr>
+                        <tr class="results-list-details" id="result-detail-4">
+                            <td colspan="5">
+                                <table>
+                                    <thead>
+                                        <tr>
+                                            <th>
+                                                <span class="ico" data-icon="F" aria-hidden="true"></span> Depart de:
+                                            </th>
+                                            <th>
+                                                <span class="ico" data-icon="T" aria-hidden="true"></span> Aller &#224;:
+                                            </th>
+                                            <th>
+                                                <span class="ico" data-icon="P" aria-hidden="true"></span> Compagnie a&#233;rienne:
+                                            </th>
+                                            <td class="col-action">
+                                                <a href="#dropdown-share-details" class="btn btn-sml dropdown-toggle share-details-button" data-share-action="details" data-details-id="531f944e-9028-4edc-85ca-ec7ad9d51c04" data-dropdown="#dropdown-share-details">Partager les d&#233;tails
+                                                    <span data-icon="X" aria-hidden="true"></span>
+                                                </a>
+                                                <a href="#result-summary-4" data-toggle="result-summary" class="btn btn-sml">
+                                                    <span data-icon="l" aria-hidden="true"></span> Retour
+                                                </a>
+                                                <a href="javascript:void(0)" class="btn btn-sml th-d-bg" data-booking-link='{"DepartCode":"LTN","ArriveCode":"ORY","DepartDate":"2017-02-17","IsCharter":false,"ViaCities":null,"CarrierCode":"TO","DepartCityCode":"LON","ArriveCityCode":"PAR","DepartCountryCode":"GB","ArriveCountryCode":"FR","IsReturn":false}' data-booking-link-num="0">
+                                                    <span data-icon="E" aria-hidden="true"></span> R&#233;server
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </thead>
+                                    <tfoot>
+                                        <tr>
+                                            <td colspan="4">
+                                                <a href="javascript:void(0)" class="th-color" data-search='{"type":"flights","From":"Aéroport de Luton","FromId":"LTN","FromLocationType":0,"To":"Aéroport de Paris-Orly","ToId":"ORY","ToLocationType":0,"DepartingOn":"17/02/2017"}'>
+                                                    <span data-icon="E" aria-hidden="true"></span> Le vol d&#39;aujourd hui sur cet itineraire
+                                                </a>
+                                            </td>
+                                        </tr>
+                                    </tfoot>
+                                    <tbody>
+                                        <tr>
+                                            <td colspan="3">
+                                                <h2>Un seul tron&#231;on</h2>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">A&#233;roport&#160;:</span>
+                                                <span class="detail-value">A&#233;roport de Luton
+                                                    <small>(LTN)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=51.8833,-0.3517&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">A&#233;roport&#160;:</span>
+                                                <span class="detail-value">A&#233;roport de Paris-Orly
+                                                    <small>(ORY)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=48.7289,2.3572&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Compagnie a&#233;rienne:</span>
+                                                <span class="detail-value">
+                                                    <p>
+        Transavia France
+    </p>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">Ville&#160;:</span>
+                                                <span class="detail-value">Londres
+                                                    <small>(LON)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=51.51,-0.13&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Ville&#160;:</span>
+                                                <span class="detail-value">Paris
+                                                    <small>(PAR)</small>
+                                                    <a href="http://maps.google.com/maps?&amp;ll=48.86,2.35&amp;z=11" target="_blank" title="Indiquez dans les maps Google">
+                                                        <span class="ico" data-icon="E" aria-hidden="true">Indiquez dans les maps Google</span>
+                                                    </a>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Escales:</span>
+                                                <span class="detail-value">
+                                                    <p>
+Non-stop</p>
+                                                </span>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <span class="detail-label">Pays&#160;:</span>
+                                                <span class="detail-value">Royaume-Uni
+                                                    <small>(GB)</small>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Pays&#160;:</span>
+                                                <span class="detail-value">France
+                                                    <small>(FR)</small>
+                                                </span>
+                                            </td>
+                                            <td>
+                                                <span class="detail-label">Distance:</span>
+                                                <span class="detail-value">401 km</span>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <textarea data-map-route-data="" style="display: none;">{"act":"fitBounds","bnds":[52.37,4.9,48.86,-0.13],"cs":true,"excess":false,"loc":"LON","rts":[{"rc":[{"Code":"*","Strategy":"SameColour"},{"Code":"d","Strategy":"Connection"},{"Code":"s","Strategy":"CodeShare"},{"Code":"r","Strategy":"RouteType"},{"Code":"KL","Strategy":"Airline"},{"Code":"a","Strategy":"Distance"}],"wps":[{"id":"AMS"}]},{"rc":[{"Code":"*","Strategy":"SameColour"},{"Code":"d","Strategy":"Connection"},{"Code":"c","Strategy":"CodeShare"},{"Code":"r","Strategy":"RouteType"},{"Code":"-","Strategy":"Airline"},{"Code":"a","Strategy":"Distance"}],"wps":[{"id":"PAR"}]}]}</textarea>
+            </div>
+        </div>
+    </div>
+</div>

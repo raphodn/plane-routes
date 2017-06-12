@@ -1,0 +1,276 @@
+departure_airport_name,departure_airport_code,arrival_airport_name,arrival_airport_code,airline_name,airline_assured_name,departure_city_name,departure_city_code,arrival_city_name,arrival_city_code,stopover_count,stopover_city_name,stopover_city_code,stopover_airport_name,stopover_airport_code,stopover_country,departure_country_name,departure_country_code,arrival_country_name,arrival_country_code,distance
+Aéroport de Charles De Gaulle,CDG,Aéroport de Dyce,ABZ,Air France,HOP!,Paris,PAR,Aberdeen,ABZ,0,,,,,,France,FR,Royaume-Uni,GB,966
+Aéroport de Charles De Gaulle,CDG,Aéroport de Felix Houphouet Boigny,ABJ,Air France,,Paris,PAR,Abidjan,ABJ,1,Ouagadougou,OUA),Aéroport d' Ouagadougou,,Burkina Faso,France,FR,Côte d'Ivoire,CI,4908
+Aéroport de Charles De Gaulle,CDG,Aéroport de Felix Houphouet Boigny,ABJ,Air France,,Paris,PAR,Abidjan,ABJ,0,,,,,,France,FR,Côte d'Ivoire,CI,4908
+Aéroport de Charles De Gaulle,CDG,Aéroport de Felix Houphouet Boigny,ABJ,Air France,,Paris,PAR,Abidjan,ABJ,1,Bamako,BKO),Aéroport de Bamako,,Mali,France,FR,Côte d'Ivoire,CI,4908
+Aéroport de Charles De Gaulle,CDG,Aéroport International Abuja,ABV,Air France,,Paris,PAR,Abuja,ABV,0,,,,,,France,FR,Nigéria,NG,4476
+Aéroport de Charles De Gaulle,CDG,Aéroport de Kotoka,ACC,Air France,,Paris,PAR,Accra,ACC,0,,,,,,France,FR,Ghana,GH,4839
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Agadir Almassira,AGA,Air France,,Paris,PAR,Agadir,AGA,0,,,,,,France,FR,Maroc,MA,2311
+Aéroport de Paris-Orly,ORY,Aéroport d' Agadir Almassira,AGA,Transavia France,,Paris,PAR,Agadir,AGA,0,,,,,,France,FR,Maroc,MA,2277
+Aéroport de Paris-Orly,ORY,Aéroport de La Garenne,AGF,HOP!,,Paris,PAR,Agen,AGF,0,,,,,,France,FR,France,FR,525
+Aéroport de Charles De Gaulle,CDG,Aéroport de Campo Dell Oro,AJA,Air France,,Paris,PAR,Ajaccio,AJA,0,,,,,,France,FR,France,FR,927
+Aéroport de Paris-Orly,ORY,Aéroport de Campo Dell Oro,AJA,Air France,,Paris,PAR,Ajaccio,AJA,0,,,,,,France,FR,France,FR,909
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Houari Boumediene,ALG,Air France,,Paris,PAR,Alger,ALG,0,,,,,,France,FR,Algérie,DZ,1373
+Aéroport de Charles De Gaulle,CDG,Aéroport International Queen Alia,AMM,Air France,,Paris,PAR,Amman,AMM,0,,,,,,France,FR,Jordanie,JO,3384
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Amsterdam-Schiphol,AMS,Air France,,Paris,PAR,Amsterdam,AMS,0,,,,,,France,FR,Pays-Bas,NL,399
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Amsterdam-Schiphol,AMS,KLM,,Paris,PAR,Amsterdam,AMS,0,,,,,,France,FR,Pays-Bas,NL,399
+Aéroport de Paris-Orly,ORY,Aéroport d' Amsterdam-Schiphol,AMS,Transavia,,Paris,PAR,Amsterdam,AMS,0,,,,,,France,FR,Pays-Bas,NL,433
+Aéroport de Paris-Orly,ORY,Aéroport d' Amsterdam-Schiphol,AMS,Transavia France,,Paris,PAR,Amsterdam,AMS,0,,,,,,France,FR,Pays-Bas,NL,433
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Antananarivo,TNR,Air France,,Paris,PAR,Antananarivo,TNR,0,,,,,,France,FR,Madagascar,MG,8758
+Aéroport de Charles De Gaulle,CDG,Aéroport International Eleftherios Venizelos,ATH,Air France,,Paris,PAR,Athènes,ATH,0,,,,,,France,FR,Grèce,GR,2111
+Aéroport de Paris-Orly,ORY,Aéroport International Eleftherios Venizelos,ATH,Transavia France,,Paris,PAR,Athènes,ATH,0,,,,,,France,FR,Grèce,GR,2108
+Aéroport de Charles De Gaulle,CDG,Aéroport International Hartsfield-Jackson Atlanta,ATL,Air France,,Paris,PAR,"Atlanta, GA",ATL,0,,,,,,France,FR,États-Unis d'Amérique,US,7063
+Aéroport de Paris-Orly,ORY,Aéroport d' Aurillac,AUR,HOP!,,Paris,PAR,Aurillac,AUR,0,,,,,,France,FR,France,FR,426
+Aéroport de Charles De Gaulle,CDG,Aéroport de Bamako,BKO,Air France,,Paris,PAR,Bamako,BKO,0,,,,,,France,FR,Mali,ML,4173
+Aéroport de Charles De Gaulle,CDG,Aéroport International Suvarnabhumi,BKK,Air France,,Paris,PAR,Bangkok,BKK,0,,,,,,France,FR,Thaïlande,TH,9458
+Aéroport de Charles De Gaulle,CDG,Aéroport de Bangui,BGF,Air France,,Paris,PAR,Bangui,BGF,0,,,,,,France,FR,République centrafricaine,CF,5192
+Aéroport de Charles De Gaulle,CDG,Aéroport de Barcelona,BCN,Air France,,Paris,PAR,Barcelone,BCN,0,,,,,,France,FR,Espagne et Îles Canaries,ES,859
+Aéroport de Paris-Orly,ORY,Aéroport de Barcelona,BCN,Transavia France,,Paris,PAR,Barcelone,BCN,0,,,,,,France,FR,Espagne et Îles Canaries,ES,827
+Aéroport de Charles De Gaulle,CDG,Aéroport de Poretta,BIA,Air France,,Paris,PAR,Bastia,BIA,0,,,,,,France,FR,France,FR,898
+Aéroport de Charles De Gaulle,CDG,Aéroport de Poretta,BIA,Air France,HOP!,Paris,PAR,Bastia,BIA,0,,,,,,France,FR,France,FR,898
+Aéroport de Paris-Orly,ORY,Aéroport de Poretta,BIA,Air France,,Paris,PAR,Bastia,BIA,0,,,,,,France,FR,France,FR,884
+Aéroport de Charles De Gaulle,CDG,Aéroport de Capital,PEK,Air France,,Paris,PAR,Beijing,BJS,0,,,,,,France,FR,Chine,CN,8200
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Hindustan,BLR,Air France,,Paris,PAR,Bengaluru,BLR,0,,,,,,France,FR,Inde,IN,7833
+Aéroport de Charles De Gaulle,CDG,Aéroport de Tegel,TXL,Air France,,Paris,PAR,Berlin,BER,0,,,,,,France,FR,Allemagne,DE,853
+Aéroport de Charles De Gaulle,CDG,Aéroport International Beirut,BEY,Air France,,Paris,PAR,Beyrouth,BEY,0,,,,,,France,FR,Liban,LB,3190
+Aéroport de Charles De Gaulle,CDG,Aéroport de Biarritz Parme,BIQ,Air France,HOP!,Paris,PAR,Biarritz,BIQ,0,,,,,,France,FR,France,FR,692
+Aéroport de Paris-Orly,ORY,Aéroport de Biarritz Parme,BIQ,Air France,,Paris,PAR,Biarritz,BIQ,0,,,,,,France,FR,France,FR,657
+Aéroport de Paris-Orly,ORY,Aéroport de Biarritz Parme,BIQ,Air France,HOP!,Paris,PAR,Biarritz,BIQ,0,,,,,,France,FR,France,FR,657
+Aéroport de Charles De Gaulle,CDG,Aéroport de Bilbao,BIO,Air France,HOP!,Paris,PAR,Bilbao,BIO,0,,,,,,France,FR,Espagne et Îles Canaries,ES,763
+Aéroport de Charles De Gaulle,CDG,Aéroport de Billund,BLL,Air France,HOP!,Paris,PAR,Billund,BLL,0,,,,,,France,FR,Danemark,DK,872
+Aéroport de Charles De Gaulle,CDG,Aéroport International Birmingham,BHX,Air France,,Paris,PAR,Birmingham,BHX,0,,,,,,France,FR,Royaume-Uni,GB,488
+Aéroport de Paris-Orly,ORY,Aéroport de Rabil,BVC,Transavia France,,Paris,PAR,Boa Vista Island,BVC,0,,,,,,France,FR,Cap-Vert,CV,4292
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Eldorado,BOG,Air France,,Paris,PAR,Bogota,BOG,0,,,,,,France,FR,Colombie,CO,8653
+Aéroport de Charles De Gaulle,CDG,Aéroport de Guglielmo Marconi,BLQ,Air France,,Paris,PAR,Bologne,BLQ,0,,,,,,France,FR,Italie,IT,832
+Aéroport de Charles De Gaulle,CDG,Aéroport de Bordeaux,BOD,Air France,,Paris,PAR,Bordeaux,BOD,0,,,,,,France,FR,France,FR,528
+Aéroport de Paris-Orly,ORY,Aéroport de Bordeaux,BOD,Air France,,Paris,PAR,Bordeaux,BOD,0,,,,,,France,FR,France,FR,492
+Aéroport de Charles De Gaulle,CDG,Aéroport International Logan,BOS,Air France,,Paris,PAR,"Boston, MA",BOS,0,,,,,,France,FR,États-Unis d'Amérique,US,5541
+Aéroport de Charles De Gaulle,CDG,Aéroport de Maya Maya,BZV,Air France,,Paris,PAR,Brazzaville,BZV,0,,,,,,France,FR,Congo,CG,6056
+Aéroport de Charles De Gaulle,CDG,Aéroport de Bremen,BRE,Air France,HOP!,Paris,PAR,Brême,BRE,0,,,,,,France,FR,Allemagne,DE,626
+Aéroport de Charles De Gaulle,CDG,Aéroport de Guipavas,BES,Air France,,Paris,PAR,Brest,BES,0,,,,,,France,FR,France,FR,515
+Aéroport de Paris-Orly,ORY,Aéroport de Guipavas,BES,Air France,HOP!,Paris,PAR,Brest,BES,0,,,,,,France,FR,France,FR,501
+Aéroport de Paris-Orly,ORY,Aéroport de Guipavas,BES,Air France,,Paris,PAR,Brest,BES,0,,,,,,France,FR,France,FR,501
+Aéroport de Paris-Orly,ORY,Aéroport de Laroche,BVE,HOP!,,Paris,PAR,Brive-La-Gaillarde,BVE,0,,,,,,France,FR,France,FR,404
+Aéroport de Charles De Gaulle,CDG,Aéroport International Otopeni,OTP,Air France,,Paris,PAR,Bucarest,BUH,0,,,,,,France,FR,Roumanie,RO,1852
+Aéroport de Charles De Gaulle,CDG,Aéroport de Ferihegy,BUD,Air France,,Paris,PAR,Budapest,BUD,0,,,,,,France,FR,Hongrie,HU,1247
+Aéroport de Paris-Orly,ORY,Aéroport de Ferihegy,BUD,Transavia France,,Paris,PAR,Budapest,BUD,0,,,,,,France,FR,Hongrie,HU,1260
+Aéroport de Charles De Gaulle,CDG,Aéroport de Ministro Pistarini,EZE,Air France,,Paris,PAR,Buenos Aires,BUE,0,,,,,,France,FR,Argentine,AR,11111
+Aéroport de Charles De Gaulle,CDG,Aéroport de Sainte Catherine,CLY,Air France,HOP!,Paris,PAR,Calvi,CLY,0,,,,,,France,FR,France,FR,869
+Aéroport de Paris-Orly,ORY,Aéroport de Sainte Catherine,CLY,Air France,,Paris,PAR,Calvi,CLY,0,,,,,,France,FR,France,FR,853
+Aéroport de Charles De Gaulle,CDG,Aéroport de Cancun,CUN,Air France,,Paris,PAR,Cancun,CUN,0,,,,,,France,FR,Mexique,MX,8227
+Aéroport de Charles De Gaulle,CDG,Aéroport de Simon Bolivar,CCS,Air France,,Paris,PAR,Caracas,CCS,0,,,,,,France,FR,Vénézuela,VE,7640
+Aéroport de Charles De Gaulle,CDG,Aéroport de Mohamed V,CMN,Air France,,Paris,PAR,Casablanca,CAS,0,,,,,,France,FR,Maroc,MA,1933
+Aéroport de Paris-Orly,ORY,Aéroport de Mohamed V,CMN,Transavia France,,Paris,PAR,Casablanca,CAS,0,,,,,,France,FR,Maroc,MA,1899
+Aéroport de Paris-Orly,ORY,Aéroport de Mazamet,DCM,HOP!,,Paris,PAR,Castres,DCM,0,,,,,,France,FR,France,FR,576
+Aéroport de Paris-Orly,ORY,Aéroport de Fontanarossa,CTA,Transavia France,,Paris,PAR,Catane,CTA,0,,,,,,France,FR,Italie,IT,1621
+Aéroport de Paris-Orly,ORY,Aéroport de Rochambeau,CAY,Air France,,Paris,PAR,Cayenne,CAY,0,,,,,,France,FR,Guyane française,GF,7092
+Aéroport de Charles De Gaulle,CDG,Aéroport International O'Hare,ORD,Air France,,Paris,PAR,"Chicago, IL",CHI,0,,,,,,France,FR,États-Unis d'Amérique,US,6672
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Aulnat,CFE,Air France,HOP!,Paris,PAR,Clermont-Ferrand,CFE,0,,,,,,France,FR,France,FR,362
+Aéroport de Paris-Orly,ORY,Aéroport d' Aulnat,CFE,Air France,HOP!,Paris,PAR,Clermont-Ferrand,CFE,0,,,,,,France,FR,France,FR,333
+Aéroport de Charles De Gaulle,CDG,Aéroport de Conakry,CKY,Air France,,Paris,PAR,Conakry,CKY,1,Freetown,FNA),Aéroport International Lungi,,Sierra Leone,France,FR,Guinée,GN,4640
+Aéroport de Charles De Gaulle,CDG,Aéroport de Conakry,CKY,Air France,,Paris,PAR,Conakry,CKY,1,Nouakchott,NKC),Aéroport de Nouakchott,,Mauritanie,France,FR,Guinée,GN,4640
+Aéroport de Charles De Gaulle,CDG,Aéroport de Copenhagen,CPH,Air France,,Paris,PAR,Copenhague,CPH,0,,,,,,France,FR,Danemark,DK,1006
+Aéroport de Paris-Orly,ORY,Aéroport d' I. Kapodistrias,CFU,Transavia France,,Paris,PAR,Corfou,CFU,0,,,,,,France,FR,Grèce,GR,1724
+Aéroport de Charles De Gaulle,CDG,Aéroport de Cotonou,COO,Air France,,Paris,PAR,Cotonou,COO,0,,,,,,France,FR,Bénin,BJ,4748
+Aéroport de Charles De Gaulle,CDG,Aéroport de Yoff,DKR,Air France,,Paris,PAR,Dakar,DKR,0,,,,,,France,FR,Sénégal,SN,4229
+Aéroport de Paris-Orly,ORY,Aéroport de Yoff,DKR,Transavia France,,Paris,PAR,Dakar,DKR,1,Boa Vista Island,BVC),Aéroport de Rabil,,Cap-Vert,France,FR,Sénégal,SN,4196
+Aéroport de Charles De Gaulle,CDG,Aéroport International Indira Gandhi,DEL,Air France,,Paris,PAR,Delhi,DEL,0,,,,,,France,FR,Inde,IN,6573
+Aéroport de Charles De Gaulle,CDG,Aéroport de Wayne County,DTW,Air France,,Paris,PAR,"Détroit, MI",DTT,0,,,,,,France,FR,États-Unis d'Amérique,US,6365
+Aéroport de Paris-Orly,ORY,Aéroport de Melita,DJE,Transavia France,,Paris,PAR,Djerba,DJE,0,,,,,,France,FR,Tunisie,TN,1794
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Ambouli,JIB,Air France,,Paris,PAR,Djibouti,JIB,0,,,,,,France,FR,Djibouti,DJ,5597
+Aéroport de Charles De Gaulle,CDG,Aéroport de Douala,DLA,Air France,,Paris,PAR,Douala,DLA,0,,,,,,France,FR,Cameroun,CM,5055
+Aéroport de Charles De Gaulle,CDG,Aéroport de Douala,DLA,Air France,,Paris,PAR,Douala,DLA,1,Yaoundé,NSI),Aéroport de Nsimalen,,Cameroun,France,FR,Cameroun,CM,5055
+Aéroport de Charles De Gaulle,CDG,Aéroport de Dubai,DXB,Air France,,Paris,PAR,Dubaï,DXB,0,,,,,,France,FR,Émirats arabes unis,AE,5243
+Aéroport de Charles De Gaulle,CDG,Aéroport de Dublin,DUB,Air France,,Paris,PAR,Dublin,DUB,0,,,,,,France,FR,Irlande,IE,785
+Aéroport de Charles De Gaulle,CDG,Aéroport de Dublin,DUB,Air France,Cityjet,Paris,PAR,Dublin,DUB,0,,,,,,France,FR,Irlande,IE,785
+Aéroport de Paris-Orly,ORY,Aéroport de Dublin,DUB,Transavia France,,Paris,PAR,Dublin,DUB,0,,,,,,France,FR,Irlande,IE,797
+Aéroport de Paris-Orly,ORY,Aéroport de Dubrovnik,DBV,Transavia France,,Paris,PAR,Dubrovnik,DBV,0,,,,,,France,FR,Croatie,HR,1411
+Aéroport de Charles De Gaulle,CDG,Duesseldorf International,DUS,Air France,WDL Aviation,Paris,PAR,Düsseldorf,DUS,0,,,,,,France,FR,Allemagne,DE,393
+Aéroport de Charles De Gaulle,CDG,Duesseldorf International,DUS,Air France,HOP!,Paris,PAR,Düsseldorf,DUS,0,,,,,,France,FR,Allemagne,DE,393
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Edinburgh,EDI,Air France,HOP!,Paris,PAR,Edimbourg,EDI,0,,,,,,France,FR,Royaume-Uni,GB,869
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Edinburgh,EDI,Air France,,Paris,PAR,Edimbourg,EDI,0,,,,,,France,FR,Royaume-Uni,GB,869
+Aéroport de Paris-Orly,ORY,Aéroport d' Edinburgh,EDI,Transavia France,,Paris,PAR,Edimbourg,EDI,0,,,,,,France,FR,Royaume-Uni,GB,892
+Aéroport de Charles De Gaulle,CDG,Aéroport de Yerevan,EVN,Air France,,Paris,PAR,Erevan,EVN,0,,,,,,France,FR,Arménie,AM,3413
+Aéroport de Paris-Orly,ORY,Aéroport d' Essaouira,ESU,Transavia France,,Paris,PAR,Essaouira,ESU,1,Fès,FEZ),Aéroport de Sais,,Maroc,France,FR,Maroc,MA,2179
+Aéroport de Paris-Orly,ORY,Aéroport d' Essaouira,ESU,Transavia France,,Paris,PAR,Essaouira,ESU,0,,,,,,France,FR,Maroc,MA,2179
+Aéroport de Charles De Gaulle,CDG,EuroAirport Swiss,BSL,Air France,HOP!,Paris,PAR,EuroAéroport,EAP,0,,,,,,France,FR,Suisse,CH,401
+Aéroport de Paris-Orly,ORY,Aéroport de Faro,FAO,Transavia France,,Paris,PAR,Faro,FAO,0,,,,,,France,FR,Portugal,PT,1550
+Aéroport de Paris-Orly,ORY,Aéroport de Sais,FEZ,Transavia France,,Paris,PAR,Fès,FEZ,0,,,,,,France,FR,Maroc,MA,1756
+Aéroport de Charles De Gaulle,CDG,Aéroport de Sud Corse,FSC,Air France,,Paris,PAR,Figari,FSC,0,,,,,,France,FR,France,FR,980
+Aéroport de Paris-Orly,ORY,Aéroport de Sud Corse,FSC,Air France,,Paris,PAR,Figari,FSC,0,,,,,,France,FR,France,FR,962
+Aéroport de Paris-Orly,ORY,Aéroport de Sud Corse,FSC,Air France,HOP!,Paris,PAR,Figari,FSC,0,,,,,,France,FR,France,FR,962
+Aéroport de Charles De Gaulle,CDG,Aéroport de Peretola,FLR,Air France,,Paris,PAR,Florence,FLR,0,,,,,,France,FR,Italie,IT,880
+Aéroport de Paris-Orly,ORY,Aéroport de Lamentin,FDF,Air France,,Paris,PAR,Fort-de-France,FDF,0,,,,,,France,FR,Martinique,MQ,6857
+Aéroport de Charles De Gaulle,CDG,Aéroport International Francfort,FRA,Air France,HOP!,Paris,PAR,Francfort,FRA,0,,,,,,France,FR,Allemagne,DE,451
+Aéroport de Charles De Gaulle,CDG,Aéroport International Lungi,FNA,Air France,,Paris,PAR,Freetown,FNA,0,,,,,,France,FR,Sierra Leone,SL,4731
+Aéroport de Paris-Orly,ORY,Aéroport de Madeira,FNC,Transavia France,,Paris,PAR,Funchal,FNC,0,,,,,,France,FR,Portugal,PT,2393
+Aéroport de Paris-Orly,ORY,Aéroport de Madeira,FNC,Transavia France,,Paris,PAR,Funchal,FNC,1,Porto,OPO),Aéroport de Porto,,Portugal,France,FR,Portugal,PT,2393
+Aéroport de Charles De Gaulle,CDG,Aéroport de Cristoforo Colombo,GOA,Air France,HOP!,Paris,PAR,Gênes,GOA,0,,,,,,France,FR,Italie,IT,702
+Aéroport de Charles De Gaulle,CDG,Aéroport de Geneve-Cointrin,GVA,Air France,,Paris,PAR,Genève,GVA,0,,,,,,France,FR,Suisse,CH,409
+Aéroport de Charles De Gaulle,CDG,Aéroport International Glasgow,GLA,Air France,HOP!,Paris,PAR,Glasgow,GLA,0,,,,,,France,FR,Royaume-Uni,GB,898
+Aéroport de Charles De Gaulle,CDG,Aéroport International Glasgow,GLA,Air France,,Paris,PAR,Glasgow,GLA,0,,,,,,France,FR,Royaume-Uni,GB,898
+Aéroport de Charles De Gaulle,CDG,Aéroport de Landvetter,GOT,Air France,HOP!,Paris,PAR,Göteborg,GOT,0,,,,,,France,FR,Suède,SE,1157
+Aéroport de Charles De Gaulle,CDG,Aéroport de Baiyun,CAN,Air France,,Paris,PAR,Guangzhou,CAN,0,,,,,,France,FR,Chine,CN,9466
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Hamburg,HAM,Air France,,Paris,PAR,Hambourg,HAM,0,,,,,,France,FR,Allemagne,DE,729
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Hannover,HAJ,Air France,HOP!,Paris,PAR,Hanovre,HAJ,0,,,,,,France,FR,Allemagne,DE,632
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Hannover,HAJ,Air France,WDL Aviation,Paris,PAR,Hanovre,HAJ,0,,,,,,France,FR,Allemagne,DE,632
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Hannover,HAJ,Air France,Cityjet,Paris,PAR,Hanovre,HAJ,0,,,,,,France,FR,Allemagne,DE,632
+Aéroport de Paris-Orly,ORY,Aéroport de N. Kazantzakis,HER,Transavia France,,Paris,PAR,Héraklion,HER,0,,,,,,France,FR,Grèce,GR,2388
+Aéroport de Charles De Gaulle,CDG,Aéroport de Tan Son Nhat,SGN,Air France,,Paris,PAR,Hô Chi Minh-Ville,SGN,0,,,,,,France,FR,Vietnam,VN,10116
+Aéroport de Charles De Gaulle,CDG,Aéroport International Hong Kong,HKG,Air France,,Paris,PAR,Hong Kong,HKG,0,,,,,,France,FR,Hong Kong,HK,9601
+Aéroport de Charles De Gaulle,CDG,Aéroport de George Bush Intercontinental,IAH,Air France,,Paris,PAR,"Houston, TX",HOU,0,,,,,,France,FR,États-Unis d'Amérique,US,8079
+Aéroport de Paris-Orly,ORY,Aéroport d' Ibiza,IBZ,Transavia France,,Paris,PAR,Ibiza,IBZ,0,,,,,,France,FR,Espagne et Îles Canaries,ES,1099
+Aéroport de Charles De Gaulle,CDG,Aéroport International S. Seewoosagur Ram.,MRU,Air France,,Paris,PAR,Ile Maurice,MRU,0,,,,,,France,FR,Maurice,MU,9457
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Ataturk,IST,Air France,,Paris,PAR,Istanbul,IST,0,,,,,,France,FR,Turquie,TR,2239
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Ataturk,IST,Air France,Atlasjet,Paris,PAR,Istanbul,IST,0,,,,,,France,FR,Turquie,TR,2239
+Aéroport de Charles De Gaulle,CDG,Aéroport International O.R. Tambo,JNB,Air France,,Paris,PAR,Johannesbourg,JNB,0,,,,,,France,FR,Afrique du Sud,ZA,8745
+Aéroport de Charles De Gaulle,CDG,Aéroport de Kiev-Borispol,KBP,Air France,,Paris,PAR,Kiev,IEV,0,,,,,,France,FR,Ukraine,UA,2036
+Aéroport de Charles De Gaulle,CDG,Aéroport de N'Djili,FIH,Air France,,Paris,PAR,Kinshasa,FIH,0,,,,,,France,FR,République démocratique du Congo,CD,6074
+Aéroport de Charles De Gaulle,CDG,Aéroport de N'Djili,FIH,Air France,,Paris,PAR,Kinshasa,FIH,1,Luanda,LAD),Aéroport de 4 de Fevereiro,,Angola,France,FR,République démocratique du Congo,CD,6074
+Aéroport de Paris-Orly,ORY,Aéroport de Souda,CHQ,Transavia France,,Paris,PAR,La Canée,CHQ,0,,,,,,France,FR,Grèce,GR,2308
+Aéroport de Charles De Gaulle,CDG,Aéroport International Jose Marti,HAV,Air France,,Paris,PAR,La Havane,HAV,0,,,,,,France,FR,Cuba,CU,7752
+Aéroport de Charles De Gaulle,CDG,Aéroport de Murtala Muhammed,LOS,Air France,,Paris,PAR,Lagos,LOS,0,,,,,,France,FR,Nigéria,NG,4723
+Aéroport de Paris-Orly,ORY,Aéroport de Servel,LAI,HOP!,,Paris,PAR,Lannion,LAI,0,,,,,,France,FR,France,FR,428
+Aéroport de Charles De Gaulle,CDG,Aéroport International Cairo,CAI,Air France,,Paris,PAR,Le Caire,CAI,0,,,,,,France,FR,Égypte,EG,3212
+Aéroport de Charles De Gaulle,CDG,Aéroport International Cape Town,CPT,Air France,,Paris,PAR,Le Cap,CPT,0,,,,,,France,FR,Afrique du Sud,ZA,9373
+Aéroport de Charles De Gaulle,CDG,Aéroport de Libreville,LBV,Air France,,Paris,PAR,Libreville,LBV,0,,,,,,France,FR,Gabon,GA,5444
+Aéroport de Charles De Gaulle,CDG,Aéroport International J Chavez,LIM,Air France,,Paris,PAR,Lima,LIM,0,,,,,,France,FR,Pérou,PE,10289
+Aéroport de Charles De Gaulle,CDG,Aéroport de Lisboa,LIS,Air France,,Paris,PAR,Lisbonne,LIS,0,,,,,,France,FR,Portugal,PT,1471
+Aéroport de Paris-Orly,ORY,Aéroport de Lisboa,LIS,Transavia France,,Paris,PAR,Lisbonne,LIS,0,,,,,,France,FR,Portugal,PT,1439
+Aéroport de Charles De Gaulle,CDG,Aéroport de Brnik,LJU,Air France,HOP!,Paris,PAR,Ljubljana,LJU,0,,,,,,France,FR,Slovénie,SI,945
+Aéroport de Charles De Gaulle,CDG,Aéroport de Lome,LFW,Air France,,Paris,PAR,Lomé,LFW,1,Niamey,NIM),Aéroport de Niamey,,Niger,France,FR,Togo,TG,4772
+Aéroport de Charles De Gaulle,CDG,Aéroport de Lome,LFW,Air France,,Paris,PAR,Lomé,LFW,0,,,,,,France,FR,Togo,TG,4772
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Heathrow,LHR,Air France,,Paris,PAR,Londres,LON,0,,,,,,France,FR,Royaume-Uni,GB,348
+Aéroport de Paris-Orly,ORY,Aéroport de Luton,LTN,Transavia France,,Paris,PAR,Londres,LON,0,,,,,,France,FR,Royaume-Uni,GB,401
+Aéroport de Paris-Orly,ORY,Aéroport de Lann Bihoue,LRT,Air France,HOP!,Paris,PAR,Lorient,LRT,0,,,,,,France,FR,France,FR,443
+Aéroport de Charles De Gaulle,CDG,Aéroport International Los Angeles,LAX,Air France,,Paris,PAR,"Los Angeles, CA",LAX,0,,,,,,France,FR,États-Unis d'Amérique,US,9112
+Aéroport de Paris-Orly,ORY,Aéroport de Tarbes Ossun Lourdes,LDE,HOP!,Avanti Air,Paris,PAR,Lourdes / Tarbes,LDE,0,,,,,,France,FR,France,FR,644
+Aéroport de Charles De Gaulle,CDG,Aéroport de 4 de Fevereiro,LAD,Air France,,Paris,PAR,Luanda,LAD,0,,,,,,France,FR,Angola,AO,6526
+Aéroport de Charles De Gaulle,CDG,Aéroport de Lyon St-Exupéry,LYS,Air France,,Paris,PAR,Lyon,LYS,0,,,,,,France,FR,France,FR,412
+Aéroport de Paris-Orly,ORY,Aéroport de Lyon St-Exupéry,LYS,Air France,,Paris,PAR,Lyon,LYS,0,,,,,,France,FR,France,FR,393
+Aéroport de Paris-Orly,ORY,Aéroport de Lyon St-Exupéry,LYS,Air France,HOP!,Paris,PAR,Lyon,LYS,0,,,,,,France,FR,France,FR,393
+Aéroport de Charles De Gaulle,CDG,Aéroport de Barajas,MAD,Air France,,Paris,PAR,Madrid,MAD,0,,,,,,France,FR,Espagne et Îles Canaries,ES,1065
+Aéroport de Paris-Orly,ORY,Aéroport de Barajas,MAD,Transavia France,,Paris,PAR,Madrid,MAD,0,,,,,,France,FR,Espagne et Îles Canaries,ES,1032
+Aéroport de Charles De Gaulle,CDG,Aéroport de Santa Isabel,SSG,Air France,,Paris,PAR,Malabo,SSG,1,Douala,DLA),Aéroport de Douala,,Cameroun,France,FR,Guinée équatoriale,GQ,5071
+Aéroport de Paris-Orly,ORY,Aéroport de Malaga,AGP,Transavia France,,Paris,PAR,Málaga,AGP,0,,,,,,France,FR,Espagne et Îles Canaries,ES,1453
+Aéroport de Paris-Orly,ORY,Aéroport de Luqa,MLA,Transavia France,,Paris,PAR,Malte,MLA,0,,,,,,France,FR,Malte,MT,1741
+Aéroport de Charles De Gaulle,CDG,Aéroport International Manchester,MAN,Air France,,Paris,PAR,Manchester,MAN,0,,,,,,France,FR,Royaume-Uni,GB,589
+Aéroport de Charles De Gaulle,CDG,Aéroport de Menara,RAK,Air France,,Paris,PAR,Marrakech,RAK,0,,,,,,France,FR,Maroc,MA,2131
+Aéroport de Paris-Orly,ORY,Aéroport de Menara,RAK,Transavia France,,Paris,PAR,Marrakech,RAK,0,,,,,,France,FR,Maroc,MA,2097
+Aéroport de Charles De Gaulle,CDG,Aéroport de Marseille,MRS,Air France,,Paris,PAR,Marseille,MRS,0,,,,,,France,FR,France,FR,653
+Aéroport de Paris-Orly,ORY,Aéroport de Marseille,MRS,Air France,,Paris,PAR,Marseille,MRS,0,,,,,,France,FR,France,FR,629
+Aéroport de Charles De Gaulle,CDG,Aéroport International Juarez,MEX,Air France,,Paris,PAR,Mexico,MEX,0,,,,,,France,FR,Mexique,MX,9209
+Aéroport de Charles De Gaulle,CDG,Aéroport International Miami,MIA,Air France,,Paris,PAR,"Miami, FL",MIA,0,,,,,,France,FR,États-Unis d'Amérique,US,7379
+Aéroport de Charles De Gaulle,CDG,Aéroport de Linate,LIN,Air France,,Paris,PAR,Milan,MIL,0,,,,,,France,FR,Italie,IT,644
+Aéroport de Charles De Gaulle,CDG,Aéroport de Malpensa,MXP,Air France,,Paris,PAR,Milan,MIL,0,,,,,,France,FR,Italie,IT,599
+Aéroport de Charles De Gaulle,CDG,Aéroport International St Paul,MSP,Air France,,Paris,PAR,"Minneapolis/St Paul, MN",MSP,0,,,,,,France,FR,États-Unis d'Amérique,US,6782
+Aéroport de Paris-Orly,ORY,Aéroport International HabiBBourguiba,MIR,Transavia France,,Paris,PAR,Monastir,MIR,0,,,,,,France,FR,Tunisie,TN,1598
+Aéroport de Charles De Gaulle,CDG,Aéroport de Carrasco,MVD,Air France,,Paris,PAR,Montevideo,MVD,1,Buenos Aires,EZE),Aéroport de Ministro Pistarini,,Argentine,France,FR,Uruguay,UY,10982
+Aéroport de Charles De Gaulle,CDG,Aéroport de Mediterranee,MPL,Air France,,Paris,PAR,Montpellier,MPL,0,,,,,,France,FR,France,FR,613
+Aéroport de Paris-Orly,ORY,Aéroport de Mediterranee,MPL,Air France,,Paris,PAR,Montpellier,MPL,0,,,,,,France,FR,France,FR,586
+Aéroport de Paris-Orly,ORY,Aéroport de Mediterranee,MPL,Air France,HOP!,Paris,PAR,Montpellier,MPL,0,,,,,,France,FR,France,FR,586
+Aéroport de Charles De Gaulle,CDG,Aéroport International Pierre Elliott Trudeau,YUL,Air France,,Paris,PAR,Montréal,YMQ,0,,,,,,France,FR,Canada,CA,5530
+Aéroport de Charles De Gaulle,CDG,Aéroport de Sheremetyevo,SVO,Air France,,Paris,PAR,Moscou,MOW,0,,,,,,France,FR,Russie,RU,2457
+Aéroport de Paris-Orly,ORY,EuroAirport Francais,MLH,Air France,HOP!,Paris,PAR,Mulhouse/Bâle,MLH,0,,,,,,France,FR,France,FR,404
+Aéroport de Charles De Gaulle,CDG,Aéroport de Mumbai,BOM,Air France,,Paris,PAR,Mumbai,BOM,0,,,,,,France,FR,Inde,IN,7001
+Aéroport de Charles De Gaulle,CDG,Munich International,MUC,Air France,,Paris,PAR,Munich,MUC,0,,,,,,France,FR,Allemagne,DE,682
+Aéroport de Paris-Orly,ORY,Munich International,MUC,Transavia France,,Paris,PAR,Munich,MUC,0,,,,,,France,FR,Allemagne,DE,695
+Aéroport de Paris-Orly,ORY,Aéroport de Mikonos,JMK,Transavia France,,Paris,PAR,Mykonos,JMK,0,,,,,,France,FR,Grèce,GR,2239
+Aéroport de Charles De Gaulle,CDG,Aéroport de Nantes Atlantique,NTE,Air France,,Paris,PAR,Nantes,NTE,0,,,,,,France,FR,France,FR,372
+Aéroport de Paris-Orly,ORY,Aéroport de Nantes Atlantique,NTE,Air France,HOP!,Paris,PAR,Nantes,NTE,0,,,,,,France,FR,France,FR,343
+Aéroport de Charles De Gaulle,CDG,Aéroport de Naples,NAP,Air France,,Paris,PAR,Naples,NAP,0,,,,,,France,FR,Italie,IT,1291
+Aéroport de Paris-Orly,ORY,Aéroport de Naples,NAP,Transavia France,,Paris,PAR,Naples,NAP,0,,,,,,France,FR,Italie,IT,1283
+Aéroport de Charles De Gaulle,CDG,Aéroport de Ndjamena,NDJ,Air France,,Paris,PAR,N'Djamena,NDJ,0,,,,,,France,FR,Tchad,TD,4263
+Aéroport de Charles De Gaulle,CDG,Aéroport International John F. Kennedy,JFK,Air France,,Paris,PAR,"New York, NY",NYC,0,,,,,,France,FR,États-Unis d'Amérique,US,5840
+Aéroport de Paris-Orly,ORY,Aéroport International John F. Kennedy,JFK,Air France,,Paris,PAR,"New York, NY",NYC,0,,,,,,France,FR,États-Unis d'Amérique,US,5839
+Aéroport de Charles De Gaulle,CDG,Aéroport de Newcastle,NCL,Air France,Cityjet,Paris,PAR,Newcastle,NCL,0,,,,,,France,FR,Royaume-Uni,GB,731
+Aéroport de Charles De Gaulle,CDG,Aéroport de Niamey,NIM,Air France,,Paris,PAR,Niamey,NIM,0,,,,,,France,FR,Niger,NE,3954
+Aéroport de Charles De Gaulle,CDG,Aéroport de Cote D'Azur,NCE,Air France,,Paris,PAR,Nice,NCE,0,,,,,,France,FR,France,FR,695
+Aéroport de Paris-Orly,ORY,Aéroport de Cote D'Azur,NCE,Air France,,Paris,PAR,Nice,NCE,0,,,,,,France,FR,France,FR,676
+Aéroport de Charles De Gaulle,CDG,Aéroport de Nouakchott,NKC,Air France,,Paris,PAR,Nouakchott,NKC,0,,,,,,France,FR,Mauritanie,MR,3801
+Aéroport de Charles De Gaulle,CDG,Aéroport de Nuremberg,NUE,Air France,HOP!,Paris,PAR,Nuremberg,NUE,0,,,,,,France,FR,Allemagne,DE,621
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Es Senia,ORN,Air France,,Paris,PAR,Oran,ORN,0,,,,,,France,FR,Algérie,DZ,1511
+Aéroport de Charles De Gaulle,CDG,Aéroport International Kansai,KIX,Air France,,Paris,PAR,Osaka,OSA,0,,,,,,France,FR,Japon,JP,9637
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Oslo,OSL,Air France,HOP!,Paris,PAR,Oslo,OSL,0,,,,,,France,FR,Norvège,NO,1358
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Ouagadougou,OUA,Air France,,Paris,PAR,Ouagadougou,OUA,0,,,,,,France,FR,Burkina Faso,BF,4097
+Aéroport de Paris-Orly,ORY,Aéroport de Les Angades,OUD,Transavia France,,Paris,PAR,Oujda,OUD,0,,,,,,France,FR,Maroc,MA,1592
+Aéroport de Paris-Orly,ORY,Aéroport d' Ovda,VDA,Transavia France,,Paris,PAR,Ovda,VDA,0,,,,,,France,FR,Israël,IL,3457
+Aéroport de Paris-Orly,ORY,Aéroport de Punta Raisi,PMO,Transavia France,,Paris,PAR,Palerme,PMO,0,,,,,,France,FR,Italie,IT,1456
+Aéroport de Charles De Gaulle,CDG,Aéroport de Palma Mallorca,PMI,Air France,,Paris,PAR,Palma de Majorque,PMI,0,,,,,,France,FR,Espagne et Îles Canaries,ES,1053
+Aéroport de Paris-Orly,ORY,Aéroport de Palma Mallorca,PMI,Transavia France,,Paris,PAR,Palma de Majorque,PMI,0,,,,,,France,FR,Espagne et Îles Canaries,ES,1022
+Aéroport de Charles De Gaulle,CDG,Aéroport International Tocumen,PTY,Air France,,Paris,PAR,Panama,PTY,0,,,,,,France,FR,Panama,PA,8670
+Aéroport de Charles De Gaulle,CDG,Aéroport de Faaa,PPT,Air France,,Paris,PAR,Papeete,PPT,1,Los Angeles,LAX),Aéroport International Los Angeles,,"CA, États-Unis d'Amérique",France,FR,Polynésie française,PF,15731
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Uzein,PUF,Air France,HOP!,Paris,PAR,Pau,PUF,0,,,,,,France,FR,France,FR,666
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Uzein,PUF,Air France,WDL Aviation,Paris,PAR,Pau,PUF,0,,,,,,France,FR,France,FR,666
+Aéroport de Paris-Orly,ORY,Aéroport d' Uzein,PUF,Air France,,Paris,PAR,Pau,PUF,0,,,,,,France,FR,France,FR,632
+Aéroport de Paris-Orly,ORY,Aéroport d' Uzein,PUF,Air France,HOP!,Paris,PAR,Pau,PUF,0,,,,,,France,FR,France,FR,632
+Aéroport de Paris-Orly,ORY,Aéroport de Llabanere,PGF,Air France,HOP!,Paris,PAR,Perpignan,PGF,0,,,,,,France,FR,France,FR,668
+Aéroport de Paris-Orly,ORY,Aéroport de Llabanere,PGF,Air France,,Paris,PAR,Perpignan,PGF,0,,,,,,France,FR,France,FR,668
+Aéroport de Paris-Orly,ORY,Aéroport de Le Raizet,PTP,Air France,,Paris,PAR,Pointe-à-Pitre,PTP,0,,,,,,France,FR,Guadeloupe,GP,6758
+Aéroport de Charles De Gaulle,CDG,Aéroport de Pointe Noire,PNR,Air France,,Paris,PAR,Pointe-Noire,PNR,0,,,,,,France,FR,Congo,CG,6059
+Aéroport de Charles De Gaulle,CDG,Aéroport de Port Harcourt,PHC,Air France,,Paris,PAR,Port Harcourt,PHC,1,Lagos,LOS),Aéroport de Murtala Muhammed,,Nigéria,France,FR,Nigéria,NG,4915
+Aéroport de Charles De Gaulle,CDG,Aéroport de Port Harcourt,PHC,Air France,,Paris,PAR,Port Harcourt,PHC,1,Abuja,ABV),Aéroport International Abuja,,Nigéria,France,FR,Nigéria,NG,4915
+Aéroport de Charles De Gaulle,CDG,Aéroport de Porto,OPO,Air France,,Paris,PAR,Porto,OPO,0,,,,,,France,FR,Portugal,PT,1233
+Aéroport de Paris-Orly,ORY,Aéroport de Porto,OPO,Transavia France,,Paris,PAR,Porto,OPO,0,,,,,,France,FR,Portugal,PT,1202
+Aéroport de Charles De Gaulle,CDG,Aéroport de Prague-Ruzyne,PRG,Air France,,Paris,PAR,Prague,PRG,0,,,,,,France,FR,République tchèque,CZ,853
+Aéroport de Paris-Orly,ORY,Aéroport de Prague-Ruzyne,PRG,Transavia France,,Paris,PAR,Prague,PRG,0,,,,,,France,FR,République tchèque,CZ,874
+Aéroport de Charles De Gaulle,CDG,Aéroport de Punta Cana,PUJ,Air France,,Paris,PAR,Punta Cana,PUJ,0,,,,,,France,FR,République dominicaine,DO,7088
+Aéroport de Paris-Orly,ORY,Aéroport de Pluguffan,UIP,Air France,HOP!,Paris,PAR,Quimper,UIP,0,,,,,,France,FR,France,FR,489
+Aéroport de Charles De Gaulle,CDG,Aéroport de Sale,RBA,Air France,,Paris,PAR,Rabat,RBA,0,,,,,,France,FR,Maroc,MA,1833
+Aéroport de Charles De Gaulle,CDG,Aéroport de St Jacques,RNS,Air France,HOP!,Paris,PAR,Rennes,RNS,0,,,,,,France,FR,France,FR,332
+Aéroport de Paris-Orly,ORY,Aéroport International Keflavik,KEF,Transavia France,,Paris,PAR,Reykjavik,REK,0,,,,,,France,FR,Islande,IS,2263
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Internacional,GIG,Air France,,Paris,PAR,Rio de Janeiro,RIO,0,,,,,,France,FR,Brésil,BR,9194
+Aéroport de Charles De Gaulle,CDG,Aéroport International King Khaled,RUH,Air France,,Paris,PAR,Riyad,RUH,0,,,,,,France,FR,Arabie saoudite,SA,4656
+Aéroport de Charles De Gaulle,CDG,Aéroport de Fiumicino,FCO,Air France,,Paris,PAR,Rome,ROM,0,,,,,,France,FR,Italie,IT,1102
+Aéroport de Charles De Gaulle,CDG,Aéroport de Las Americas,SDQ,Air France,,Paris,PAR,Saint Domingue,SDQ,0,,,,,,France,FR,République dominicaine,DO,7192
+Aéroport de Charles De Gaulle,CDG,Aéroport de Las Americas,SDQ,Air France,,Paris,PAR,Saint Domingue,SDQ,1,Punta Cana,PUJ),Aéroport de Punta Cana,,République dominicaine,France,FR,République dominicaine,DO,7192
+Aéroport de Charles De Gaulle,CDG,Aéroport de Princ. Juliana,SXM,Air France,,Paris,PAR,Saint-Martin,SXM,0,,,,,,France,FR,St Maarten,SX,6746
+Aéroport de Charles De Gaulle,CDG,Aéroport International San Francisco,SFO,Air France,,Paris,PAR,"San Francisco, CA",SFO,0,,,,,,France,FR,États-Unis d'Amérique,US,8972
+Aéroport de Charles De Gaulle,CDG,Aéroport International Juan Santamaria,SJO,Air France,,Paris,PAR,San José,SJO,0,,,,,,France,FR,Costa Rica,CR,8945
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Arturo Merino Benitez,SCL,Air France,,Paris,PAR,Santiago,SCL,0,,,,,,France,FR,Chili,CL,11685
+Aéroport de Charles De Gaulle,CDG,Aéroport International Guarulhos,GRU,Air France,,Paris,PAR,Sao Paulo,SAO,0,,,,,,France,FR,Brésil,BR,9415
+Aéroport de Charles De Gaulle,CDG,Aéroport International Incheon,ICN,Air France,,Paris,PAR,Séoul,SEL,0,,,,,,France,FR,République de Corée,KR,8937
+Aéroport de Paris-Orly,ORY,Aéroport de Sevilla,SVQ,Transavia France,,Paris,PAR,Séville,SVQ,0,,,,,,France,FR,Espagne et Îles Canaries,ES,1424
+Aéroport de Charles De Gaulle,CDG,Aéroport de PuDong,PVG,Air France,,Paris,PAR,Shanghai,SHA,0,,,,,,France,FR,Chine,CN,9275
+Aéroport de Charles De Gaulle,CDG,Aéroport de Changi,SIN,Air France,,Paris,PAR,Singapour,SIN,0,,,,,,France,FR,Singapour,SG,10736
+Aéroport de Charles De Gaulle,CDG,Aéroport de Vrazhdebna,SOF,Air France,,Paris,PAR,Sofia,SOF,0,,,,,,France,FR,Bulgarie,BG,1756
+Aéroport de Paris-Orly,ORY,Aéroport de Split,SPU,Transavia France,,Paris,PAR,Split,SPU,0,,,,,,France,FR,Croatie,HR,1218
+Aéroport de Paris-Orly,ORY,Aéroport de Gillot,RUN,Air France,,Paris,PAR,St Denis de la Réunion,RUN,0,,,,,,France,FR,Île de la Réunion,RE,9370
+Aéroport de Charles De Gaulle,CDG,Aéroport de Pulkovo,LED,Air France,,Paris,PAR,St Pétersbourg,LED,0,,,,,,France,FR,Russie,RU,2136
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Arlanda,ARN,Air France,,Paris,PAR,Stockholm,STO,0,,,,,,France,FR,Suède,SE,1542
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Echterdingen,STR,Air France,HOP!,Paris,PAR,Stuttgart,STR,0,,,,,,France,FR,Allemagne,DE,489
+Aéroport de Paris-Orly,ORY,Aéroport de Boukhalef,TNG,Transavia France,,Paris,PAR,Tanger,TNG,0,,,,,,France,FR,Maroc,MA,1598
+Aéroport de Charles De Gaulle,CDG,Aéroport International Imam Khomeini,IKA,Air France,,Paris,PAR,Téhéran,THR,0,,,,,,France,FR,Iran,IR,4200
+Aéroport de Charles De Gaulle,CDG,Aéroport International Ben Gurion,TLV,Air France,,Paris,PAR,Tel-Aviv,TLV,0,,,,,,France,FR,Israël,IL,3288
+Aéroport de Paris-Orly,ORY,Aéroport International Ben Gurion,TLV,Transavia France,,Paris,PAR,Tel-Aviv,TLV,0,,,,,,France,FR,Israël,IL,3288
+Aéroport de Paris-Orly,ORY,Aéroport de Makedonia,SKG,Transavia France,,Paris,PAR,Thessalonique,SKG,0,,,,,,France,FR,Grèce,GR,1862
+Aéroport de Paris-Orly,ORY,Aéroport de Thira,JTR,Transavia France,,Paris,PAR,Thira,JTR,0,,,,,,France,FR,Grèce,GR,2326
+Aéroport de Paris-Orly,ORY,Aéroport de Rinas,TIA,Transavia France,,Paris,PAR,Tirana,TIA,0,,,,,,France,FR,Albanie,AL,1584
+Aéroport de Paris-Orly,ORY,Aéroport de Tivat,TIV,Transavia France,,Paris,PAR,Tivat,TIV,0,,,,,,France,FR,Monténégro,ME,1453
+Aéroport de Charles De Gaulle,CDG,Aéroport d' Haneda,HND,Air France,,Paris,PAR,Tokyo,TYO,0,,,,,,France,FR,Japon,JP,9717
+Aéroport de Charles De Gaulle,CDG,Aéroport de Narita,NRT,Air France,,Paris,PAR,Tokyo,TYO,0,,,,,,France,FR,Japon,JP,9720
+Aéroport de Charles De Gaulle,CDG,Aéroport International Pearson,YYZ,Air France,,Paris,PAR,Toronto,YTO,0,,,,,,France,FR,Canada,CA,6025
+Aéroport de Paris-Orly,ORY,Aéroport d' Hyeres,TLN,Air France,HOP!,Paris,PAR,Toulon,TLN,0,,,,,,France,FR,France,FR,692
+Aéroport de Paris-Orly,ORY,Aéroport d' Hyeres,TLN,Air France,,Paris,PAR,Toulon,TLN,0,,,,,,France,FR,France,FR,692
+Aéroport de Charles De Gaulle,CDG,Aéroport de Blagnac,TLS,Air France,,Paris,PAR,Toulouse,TLS,0,,,,,,France,FR,France,FR,605
+Aéroport de Paris-Orly,ORY,Aéroport de Blagnac,TLS,Air France,,Paris,PAR,Toulouse,TLS,0,,,,,,France,FR,France,FR,571
+Aéroport de Charles De Gaulle,CDG,Aéroport de Carthage,TUN,Air France,,Paris,PAR,Tunis,TUN,0,,,,,,France,FR,Tunisie,TN,1489
+Aéroport de Paris-Orly,ORY,Aéroport de Carthage,TUN,Transavia France,,Paris,PAR,Tunis,TUN,0,,,,,,France,FR,Tunisie,TN,1468
+Aéroport de Charles De Gaulle,CDG,Aéroport de Citta Di Torino,TRN,Air France,Cityjet,Paris,PAR,Turin,TRN,0,,,,,,France,FR,Italie,IT,573
+Aéroport de Charles De Gaulle,CDG,Aéroport de Citta Di Torino,TRN,Air France,HOP!,Paris,PAR,Turin,TRN,0,,,,,,France,FR,Italie,IT,573
+Aéroport de Paris-Orly,ORY,Aéroport de Valencia,VLC,Transavia France,,Paris,PAR,Valence,VLC,0,,,,,,France,FR,Espagne et Îles Canaries,ES,1053
+Aéroport de Charles De Gaulle,CDG,Aéroport International Vancouver,YVR,Air France,,Paris,PAR,Vancouver,YVR,0,,,,,,France,FR,Canada,CA,7934
+Aéroport de Charles De Gaulle,CDG,Aéroport de Frederic Chopin,WAW,Air France,,Paris,PAR,Varsovie,WAW,0,,,,,,France,FR,Pologne,PL,1344
+Aéroport de Charles De Gaulle,CDG,Aéroport de Marco Polo,VCE,Air France,,Paris,PAR,Venise,VCE,0,,,,,,France,FR,Italie,IT,837
+Aéroport de Paris-Orly,ORY,Aéroport de Marco Polo,VCE,Transavia France,,Paris,PAR,Venise,VCE,0,,,,,,France,FR,Italie,IT,837
+Aéroport de Paris-Orly,ORY,Aéroport de Verona,VRN,Transavia France,,Paris,PAR,Vérone,VRN,0,,,,,,France,FR,Italie,IT,745
+Aéroport de Charles De Gaulle,CDG,Aéroport International Vienna,VIE,Air France,,Paris,PAR,Vienne,VIE,0,,,,,,France,FR,Autriche,AT,1036
+Aéroport de Paris-Orly,ORY,Aéroport International Vienna,VIE,Transavia France,,Paris,PAR,Vienne,VIE,0,,,,,,France,FR,Autriche,AT,1051
+Aéroport de Charles De Gaulle,CDG,Aéroport International Dulles,IAD,Air France,,Paris,PAR,"Washington, DC",WAS,0,,,,,,France,FR,États-Unis d'Amérique,US,6204
+Aéroport de Charles De Gaulle,CDG,Aéroport de Wuhan,WUH,Air France,,Paris,PAR,Wuhan,WUH,0,,,,,,France,FR,Chine,CN,8876
+Aéroport de Charles De Gaulle,CDG,Aéroport de Nsimalen,NSI,Air France,,Paris,PAR,Yaoundé,YAO,1,Bangui,BGF),Aéroport de Bangui,,République centrafricaine,France,FR,Cameroun,CM,5114
+Aéroport de Charles De Gaulle,CDG,Aéroport de Nsimalen,NSI,Air France,,Paris,PAR,Yaoundé,YAO,0,,,,,,France,FR,Cameroun,CM,5114
+Aéroport de Paris-Orly,ORY,Aéroport de Zadar,ZAD,Transavia France,,Paris,PAR,Zadar,ZAD,0,,,,,,France,FR,Croatie,HR,1120
+Aéroport de Charles De Gaulle,CDG,Aéroport de Pleso,ZAG,Air France,,Paris,PAR,Zagreb,ZAG,0,,,,,,France,FR,Croatie,HR,1080
+Aéroport de Charles De Gaulle,CDG,Aéroport de Pleso,ZAG,Air France,HOP!,Paris,PAR,Zagreb,ZAG,0,,,,,,France,FR,Croatie,HR,1080
+Aéroport de Charles De Gaulle,CDG,Aéroport de Zurich,ZRH,Air France,,Paris,PAR,Zurich,ZRH,0,,,,,,France,FR,Suisse,CH,476

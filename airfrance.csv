@@ -1,0 +1,610 @@
+departure_airport_name,departure_airport_code,departure_city_name,departure_city_code,departure_city_longitude,departure_city_latitude,departure_country_name,departure_country_code,arrival_airport_name,arrival_airport_code,arrival_city_name,arrival_city_code,arrival_city_longitude,arrival_city_latitude,arrival_country_name,arrival_country_code,airline_name,airline_assured_name,stopover_count,stopover_city_name,stopover_city_code,stopover_city_longitude,stopover_city_latitude,stopover_airport_name,stopover_airport_code,stopover_country,distance,type
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Dyce,ABZ,Aberdeen,ABZ,-2.09,57.15,Royaume-Uni,GB,Air France,HOP!,0,,,,,,,,966,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Felix Houphouet Boigny,ABJ,Abidjan,ABJ,-4.03,5.34,Côte d'Ivoire,CI,Air France,,1,Ouagadougou,OUA,-1.51,12.35,Aéroport d' Ouagadougou,OUA,Burkina Faso,4908,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Felix Houphouet Boigny,ABJ,Abidjan,ABJ,-4.03,5.34,Côte d'Ivoire,CI,Air France,,0,,,,,,,,4908,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Felix Houphouet Boigny,ABJ,Abidjan,ABJ,-4.03,5.34,Côte d'Ivoire,CI,Air France,,1,Bamako,BKO,-8.03,12.63,Aéroport de Bamako,BKO,Mali,4908,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Abuja,ABV,Abuja,ABV,7.48,9.07,Nigéria,NG,Air France,,0,,,,,,,,4476,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Kotoka,ACC,Accra,ACC,-0.17,5.6,Ghana,GH,Air France,,0,,,,,,,,4839,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Agadir Almassira,AGA,Agadir,AGA,-9.6,30.43,Maroc,MA,Air France,,0,,,,,,,,2311,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Agadir Almassira,AGA,Agadir,AGA,-9.6,30.43,Maroc,MA,Transavia France,,0,,,,,,,,2277,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de La Garenne,AGF,Agen,AGF,0.6,44.17,France,FR,HOP!,,0,,,,,,,,525,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Campo Dell Oro,AJA,Ajaccio,AJA,8.74,41.92,France,FR,Air France,,0,,,,,,,,927,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Campo Dell Oro,AJA,Ajaccio,AJA,8.74,41.92,France,FR,Air France,,0,,,,,,,,909,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Houari Boumediene,ALG,Alger,ALG,3.04,36.75,Algérie,DZ,Air France,,0,,,,,,,,1373,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Queen Alia,AMM,Amman,AMM,35.95,31.96,Jordanie,JO,Air France,,0,,,,,,,,3384,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Air France,,0,,,,,,,,399,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,KLM,,0,,,,,,,,399,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Transavia,,0,,,,,,,,433,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Transavia France,,0,,,,,,,,433,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Antananarivo,TNR,Antananarivo,TNR,47.53,-18.91,Madagascar,MG,Air France,,0,,,,,,,,8758,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Eleftherios Venizelos,ATH,Athènes,ATH,23.73,37.98,Grèce,GR,Air France,,0,,,,,,,,2111,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport International Eleftherios Venizelos,ATH,Athènes,ATH,23.73,37.98,Grèce,GR,Transavia France,,0,,,,,,,,2108,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Hartsfield-Jackson Atlanta,ATL,"Atlanta, GA",ATL,-84.43,33.75,États-Unis d'Amérique,US,Air France,,0,,,,,,,,7063,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Aurillac,AUR,Aurillac,AUR,2.42,44.9,France,FR,HOP!,,0,,,,,,,,426,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Bamako,BKO,Bamako,BKO,-8.03,12.63,Mali,ML,Air France,,0,,,,,,,,4173,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Suvarnabhumi,BKK,Bangkok,BKK,100.52,13.73,Thaïlande,TH,Air France,,0,,,,,,,,9458,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Bangui,BGF,Bangui,BGF,18.52,4.4,République centrafricaine,CF,Air France,,0,,,,,,,,5192,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Barcelona,BCN,Barcelone,BCN,2.17,41.39,Espagne et Îles Canaries,ES,Air France,,0,,,,,,,,859,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Barcelona,BCN,Barcelone,BCN,2.17,41.39,Espagne et Îles Canaries,ES,Transavia France,,0,,,,,,,,827,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Poretta,BIA,Bastia,BIA,9.49,42.7,France,FR,Air France,,0,,,,,,,,898,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Poretta,BIA,Bastia,BIA,9.49,42.7,France,FR,Air France,HOP!,0,,,,,,,,898,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Poretta,BIA,Bastia,BIA,9.49,42.7,France,FR,Air France,,0,,,,,,,,884,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Capital,PEK,Beijing,BJS,116.41,39.9,Chine,CN,Air France,,0,,,,,,,,8200,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Hindustan,BLR,Bengaluru,BLR,77.59,12.97,Inde,IN,Air France,,0,,,,,,,,7833,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Tegel,TXL,Berlin,BER,13.4,52.51,Allemagne,DE,Air France,,0,,,,,,,,853,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Beirut,BEY,Beyrouth,BEY,35.49,33.89,Liban,LB,Air France,,0,,,,,,,,3190,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Biarritz Parme,BIQ,Biarritz,BIQ,-1.52,43.47,France,FR,Air France,HOP!,0,,,,,,,,692,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Biarritz Parme,BIQ,Biarritz,BIQ,-1.52,43.47,France,FR,Air France,,0,,,,,,,,657,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Biarritz Parme,BIQ,Biarritz,BIQ,-1.52,43.47,France,FR,Air France,HOP!,0,,,,,,,,657,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Bilbao,BIO,Bilbao,BIO,-2.92,43.3,Espagne et Îles Canaries,ES,Air France,HOP!,0,,,,,,,,763,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Billund,BLL,Billund,BLL,9.15,55.74,Danemark,DK,Air France,HOP!,0,,,,,,,,872,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Birmingham,BHX,Birmingham,BHX,-1.84,52.52,Royaume-Uni,GB,Air France,,0,,,,,,,,488,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Rabil,BVC,Boa Vista Island,BVC,-22.83,16.14,Cap-Vert,CV,Transavia France,,0,,,,,,,,4292,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Eldorado,BOG,Bogota,BOG,-74.08,4.6,Colombie,CO,Air France,,0,,,,,,,,8653,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Guglielmo Marconi,BLQ,Bologne,BLQ,11.29,44.53,Italie,IT,Air France,,0,,,,,,,,832,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Bordeaux,BOD,Bordeaux,BOD,-0.58,44.83,France,FR,Air France,,0,,,,,,,,528,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Bordeaux,BOD,Bordeaux,BOD,-0.58,44.83,France,FR,Air France,,0,,,,,,,,492,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Logan,BOS,"Boston, MA",BOS,-71.06,42.37,États-Unis d'Amérique,US,Air France,,0,,,,,,,,5541,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Maya Maya,BZV,Brazzaville,BZV,15.25,-4.25,Congo,CG,Air France,,0,,,,,,,,6056,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Bremen,BRE,Brême,BRE,8.79,53.05,Allemagne,DE,Air France,HOP!,0,,,,,,,,626,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Guipavas,BES,Brest,BES,-4.49,48.39,France,FR,Air France,,0,,,,,,,,515,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Guipavas,BES,Brest,BES,-4.49,48.39,France,FR,Air France,HOP!,0,,,,,,,,501,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Guipavas,BES,Brest,BES,-4.49,48.39,France,FR,Air France,,0,,,,,,,,501,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Laroche,BVE,Brive-La-Gaillarde,BVE,1.53,45.17,France,FR,HOP!,,0,,,,,,,,404,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Otopeni,OTP,Bucarest,BUH,26.1,44.43,Roumanie,RO,Air France,,0,,,,,,,,1852,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Ferihegy,BUD,Budapest,BUD,19.04,47.5,Hongrie,HU,Air France,,0,,,,,,,,1247,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Ferihegy,BUD,Budapest,BUD,19.04,47.5,Hongrie,HU,Transavia France,,0,,,,,,,,1260,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Ministro Pistarini,EZE,Buenos Aires,BUE,-58.38,-34.6,Argentine,AR,Air France,,0,,,,,,,,11111,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Sainte Catherine,CLY,Calvi,CLY,8.79,42.53,France,FR,Air France,HOP!,0,,,,,,,,869,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Sainte Catherine,CLY,Calvi,CLY,8.79,42.53,France,FR,Air France,,0,,,,,,,,853,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Cancun,CUN,Cancun,CUN,-86.87,21.16,Mexique,MX,Air France,,0,,,,,,,,8227,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Simon Bolivar,CCS,Caracas,CCS,-66.9,10.49,Vénézuela,VE,Air France,,0,,,,,,,,7640,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Mohamed V,CMN,Casablanca,CAS,-7.58,33.56,Maroc,MA,Air France,,0,,,,,,,,1933,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Mohamed V,CMN,Casablanca,CAS,-7.58,33.56,Maroc,MA,Transavia France,,0,,,,,,,,1899,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Mazamet,DCM,Castres,DCM,2.28,43.56,France,FR,HOP!,,0,,,,,,,,576,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Fontanarossa,CTA,Catane,CTA,15.1,37.51,Italie,IT,Transavia France,,0,,,,,,,,1621,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Rochambeau,CAY,Cayenne,CAY,-52.37,4.92,Guyane française,GF,Air France,,0,,,,,,,,7092,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International O'Hare,ORD,"Chicago, IL",CHI,-87.65,41.85,États-Unis d'Amérique,US,Air France,,0,,,,,,,,6672,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Aulnat,CFE,Clermont-Ferrand,CFE,3.09,45.79,France,FR,Air France,HOP!,0,,,,,,,,362,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Aulnat,CFE,Clermont-Ferrand,CFE,3.09,45.79,France,FR,Air France,HOP!,0,,,,,,,,333,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Conakry,CKY,Conakry,CKY,-13.68,9.58,Guinée,GN,Air France,,1,Freetown,FNA,-13.2,8.48,Aéroport International Lungi,FNA,Sierra Leone,4640,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Conakry,CKY,Conakry,CKY,-13.68,9.58,Guinée,GN,Air France,,1,Nouakchott,NKC,-15.96,18.07,Aéroport de Nouakchott,NKC,Mauritanie,4640,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Copenhagen,CPH,Copenhague,CPH,12.57,55.68,Danemark,DK,Air France,,0,,,,,,,,1006,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' I. Kapodistrias,CFU,Corfou,CFU,19.83,39.6,Grèce,GR,Transavia France,,0,,,,,,,,1724,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Cotonou,COO,Cotonou,COO,2.39,6.35,Bénin,BJ,Air France,,0,,,,,,,,4748,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Yoff,DKR,Dakar,DKR,-17.37,14.74,Sénégal,SN,Air France,,0,,,,,,,,4229,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Yoff,DKR,Dakar,DKR,-17.37,14.74,Sénégal,SN,Transavia France,,1,Boa Vista Island,BVC,-22.83,16.14,Aéroport de Rabil,BVC,Cap-Vert,4196,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Indira Gandhi,DEL,Delhi,DEL,77.22,28.64,Inde,IN,Air France,,0,,,,,,,,6573,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Wayne County,DTW,"Détroit, MI",DTT,-83.02,42.33,États-Unis d'Amérique,US,Air France,,0,,,,,,,,6365,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Melita,DJE,Djerba,DJE,10.85,33.81,Tunisie,TN,Transavia France,,0,,,,,,,,1794,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Ambouli,JIB,Djibouti,JIB,43.16,11.55,Djibouti,DJ,Air France,,0,,,,,,,,5597,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Douala,DLA,Douala,DLA,9.71,4.01,Cameroun,CM,Air France,,0,,,,,,,,5055,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Douala,DLA,Douala,DLA,9.71,4.01,Cameroun,CM,Air France,,1,Yaoundé,YAO,11.52,3.83,Aéroport de Nsimalen,NSI,Cameroun,5055,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Dubai,DXB,Dubaï,DXB,55.36,25.25,Émirats arabes unis,AE,Air France,,0,,,,,,,,5243,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Dublin,DUB,Dublin,DUB,-6.25,53.35,Irlande,IE,Air France,,0,,,,,,,,785,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Dublin,DUB,Dublin,DUB,-6.25,53.35,Irlande,IE,Air France,Cityjet,0,,,,,,,,785,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Dublin,DUB,Dublin,DUB,-6.25,53.35,Irlande,IE,Transavia France,,0,,,,,,,,797,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Dubrovnik,DBV,Dubrovnik,DBV,18.09,42.65,Croatie,HR,Transavia France,,0,,,,,,,,1411,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Duesseldorf International,DUS,Düsseldorf,DUS,6.77,51.23,Allemagne,DE,Air France,WDL Aviation,0,,,,,,,,393,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Duesseldorf International,DUS,Düsseldorf,DUS,6.77,51.23,Allemagne,DE,Air France,HOP!,0,,,,,,,,393,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Edinburgh,EDI,Edimbourg,EDI,-3.21,55.95,Royaume-Uni,GB,Air France,HOP!,0,,,,,,,,869,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Edinburgh,EDI,Edimbourg,EDI,-3.21,55.95,Royaume-Uni,GB,Air France,,0,,,,,,,,869,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Edinburgh,EDI,Edimbourg,EDI,-3.21,55.95,Royaume-Uni,GB,Transavia France,,0,,,,,,,,892,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Yerevan,EVN,Erevan,EVN,44.52,40.15,Arménie,AM,Air France,,0,,,,,,,,3413,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Essaouira,ESU,Essaouira,ESU,-9.77,31.53,Maroc,MA,Transavia France,,1,Fès,FEZ,-4.97,34.03,Aéroport de Sais,FEZ,Maroc,2179,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Essaouira,ESU,Essaouira,ESU,-9.77,31.53,Maroc,MA,Transavia France,,0,,,,,,,,2179,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,EuroAirport Swiss,BSL,EuroAéroport,EAP,7.53,47.59,Suisse,CH,Air France,HOP!,0,,,,,,,,401,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Faro,FAO,Faro,FAO,-7.97,37.01,Portugal,PT,Transavia France,,0,,,,,,,,1550,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Sais,FEZ,Fès,FEZ,-4.97,34.03,Maroc,MA,Transavia France,,0,,,,,,,,1756,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Sud Corse,FSC,Figari,FSC,9.1,41.5,France,FR,Air France,,0,,,,,,,,980,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Sud Corse,FSC,Figari,FSC,9.1,41.5,France,FR,Air France,,0,,,,,,,,962,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Sud Corse,FSC,Figari,FSC,9.1,41.5,France,FR,Air France,HOP!,0,,,,,,,,962,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Peretola,FLR,Florence,FLR,11.2,43.81,Italie,IT,Air France,,0,,,,,,,,880,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Lamentin,FDF,Fort-de-France,FDF,-61.07,14.59,Martinique,MQ,Air France,,0,,,,,,,,6857,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Francfort,FRA,Francfort,FRA,8.69,50.11,Allemagne,DE,Air France,HOP!,0,,,,,,,,451,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Lungi,FNA,Freetown,FNA,-13.2,8.48,Sierra Leone,SL,Air France,,0,,,,,,,,4731,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Madeira,FNC,Funchal,FNC,-16.96,32.76,Portugal,PT,Transavia France,,0,,,,,,,,2393,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Madeira,FNC,Funchal,FNC,-16.96,32.76,Portugal,PT,Transavia France,,1,Porto,OPO,-8.67,41.17,Aéroport de Porto,OPO,Portugal,2393,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Cristoforo Colombo,GOA,Gênes,GOA,8.95,44.41,Italie,IT,Air France,HOP!,0,,,,,,,,702,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Geneve-Cointrin,GVA,Genève,GVA,6.11,46.24,Suisse,CH,Air France,,0,,,,,,,,409,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Glasgow,GLA,Glasgow,GLA,-4.25,55.87,Royaume-Uni,GB,Air France,HOP!,0,,,,,,,,898,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Glasgow,GLA,Glasgow,GLA,-4.25,55.87,Royaume-Uni,GB,Air France,,0,,,,,,,,898,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Landvetter,GOT,Göteborg,GOT,11.97,57.67,Suède,SE,Air France,HOP!,0,,,,,,,,1157,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Baiyun,CAN,Guangzhou,CAN,113.27,23.13,Chine,CN,Air France,,0,,,,,,,,9466,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Hamburg,HAM,Hambourg,HAM,9.99,53.55,Allemagne,DE,Air France,,0,,,,,,,,729,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Hannover,HAJ,Hanovre,HAJ,9.73,52.38,Allemagne,DE,Air France,HOP!,0,,,,,,,,632,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Hannover,HAJ,Hanovre,HAJ,9.73,52.38,Allemagne,DE,Air France,WDL Aviation,0,,,,,,,,632,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Hannover,HAJ,Hanovre,HAJ,9.73,52.38,Allemagne,DE,Air France,Cityjet,0,,,,,,,,632,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de N. Kazantzakis,HER,Héraklion,HER,25.07,35.2,Grèce,GR,Transavia France,,0,,,,,,,,2388,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Tan Son Nhat,SGN,Hô Chi Minh-Ville,SGN,106.66,10.82,Vietnam,VN,Air France,,0,,,,,,,,10116,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Hong Kong,HKG,Hong Kong,HKG,114.11,22.4,Hong Kong,HK,Air France,,0,,,,,,,,9601,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de George Bush Intercontinental,IAH,"Houston, TX",HOU,-95.37,29.76,États-Unis d'Amérique,US,Air France,,0,,,,,,,,8079,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Ibiza,IBZ,Ibiza,IBZ,1.43,38.87,Espagne et Îles Canaries,ES,Transavia France,,0,,,,,,,,1099,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International S. Seewoosagur Ram.,MRU,Ile Maurice,MRU,57.55,-20.35,Maurice,MU,Air France,,0,,,,,,,,9457,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Ataturk,IST,Istanbul,IST,28.98,40.98,Turquie,TR,Air France,,0,,,,,,,,2239,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Ataturk,IST,Istanbul,IST,28.98,40.98,Turquie,TR,Air France,Atlasjet,0,,,,,,,,2239,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International O.R. Tambo,JNB,Johannesbourg,JNB,28.05,-26.2,Afrique du Sud,ZA,Air France,,0,,,,,,,,8745,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Kiev-Borispol,KBP,Kiev,IEV,30.52,50.45,Ukraine,UA,Air France,,0,,,,,,,,2036,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de N'Djili,FIH,Kinshasa,FIH,15.31,-4.33,République démocratique du Congo,CD,Air France,,0,,,,,,,,6074,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de N'Djili,FIH,Kinshasa,FIH,15.31,-4.33,République démocratique du Congo,CD,Air France,,1,Luanda,LAD,13.24,-8.85,Aéroport de 4 de Fevereiro,LAD,Angola,6074,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Souda,CHQ,La Canée,CHQ,24.02,35.53,Grèce,GR,Transavia France,,0,,,,,,,,2308,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Jose Marti,HAV,La Havane,HAV,-82.41,23.12,Cuba,CU,Air France,,0,,,,,,,,7752,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Murtala Muhammed,LOS,Lagos,LOS,3.42,6.44,Nigéria,NG,Air France,,0,,,,,,,,4723,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Servel,LAI,Lannion,LAI,-3.48,48.75,France,FR,HOP!,,0,,,,,,,,428,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Cairo,CAI,Le Caire,CAI,31.24,30.04,Égypte,EG,Air France,,0,,,,,,,,3212,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Cape Town,CPT,Le Cap,CPT,18.42,-33.96,Afrique du Sud,ZA,Air France,,0,,,,,,,,9373,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Libreville,LBV,Libreville,LBV,9.45,-0.39,Gabon,GA,Air France,,0,,,,,,,,5444,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International J Chavez,LIM,Lima,LIM,-77.06,-12.03,Pérou,PE,Air France,,0,,,,,,,,10289,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Lisboa,LIS,Lisbonne,LIS,-9.13,38.73,Portugal,PT,Air France,,0,,,,,,,,1471,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Lisboa,LIS,Lisbonne,LIS,-9.13,38.73,Portugal,PT,Transavia France,,0,,,,,,,,1439,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Brnik,LJU,Ljubljana,LJU,14.51,46.06,Slovénie,SI,Air France,HOP!,0,,,,,,,,945,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Lome,LFW,Lomé,LFW,1.25,6.16,Togo,TG,Air France,,1,Niamey,NIM,2.11,13.48,Aéroport de Niamey,NIM,Niger,4772,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Lome,LFW,Lomé,LFW,1.25,6.16,Togo,TG,Air France,,0,,,,,,,,4772,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Heathrow,LHR,Londres,LON,-0.13,51.51,Royaume-Uni,GB,Air France,,0,,,,,,,,348,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Luton,LTN,Londres,LON,-0.13,51.51,Royaume-Uni,GB,Transavia France,,0,,,,,,,,401,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Lann Bihoue,LRT,Lorient,LRT,-3.37,47.76,France,FR,Air France,HOP!,0,,,,,,,,443,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Los Angeles,LAX,"Los Angeles, CA",LAX,-118.24,34.05,États-Unis d'Amérique,US,Air France,,0,,,,,,,,9112,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Tarbes Ossun Lourdes,LDE,Lourdes / Tarbes,LDE,0,43.09,France,FR,HOP!,Avanti Air,0,,,,,,,,644,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de 4 de Fevereiro,LAD,Luanda,LAD,13.24,-8.85,Angola,AO,Air France,,0,,,,,,,,6526,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Lyon St-Exupéry,LYS,Lyon,LYS,4.84,45.73,France,FR,Air France,,0,,,,,,,,412,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Lyon St-Exupéry,LYS,Lyon,LYS,4.84,45.73,France,FR,Air France,,0,,,,,,,,393,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Lyon St-Exupéry,LYS,Lyon,LYS,4.84,45.73,France,FR,Air France,HOP!,0,,,,,,,,393,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Barajas,MAD,Madrid,MAD,-3.69,40.47,Espagne et Îles Canaries,ES,Air France,,0,,,,,,,,1065,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Barajas,MAD,Madrid,MAD,-3.69,40.47,Espagne et Îles Canaries,ES,Transavia France,,0,,,,,,,,1032,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Santa Isabel,SSG,Malabo,SSG,8.78,3.75,Guinée équatoriale,GQ,Air France,,1,Douala,DLA,9.71,4.01,Aéroport de Douala,DLA,Cameroun,5071,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Malaga,AGP,Málaga,AGP,-4.42,36.73,Espagne et Îles Canaries,ES,Transavia France,,0,,,,,,,,1453,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Luqa,MLA,Malte,MLA,14.38,35.94,Malte,MT,Transavia France,,0,,,,,,,,1741,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Manchester,MAN,Manchester,MAN,-2.28,53.5,Royaume-Uni,GB,Air France,,0,,,,,,,,589,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Menara,RAK,Marrakech,RAK,-8.04,31.61,Maroc,MA,Air France,,0,,,,,,,,2131,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Menara,RAK,Marrakech,RAK,-8.04,31.61,Maroc,MA,Transavia France,,0,,,,,,,,2097,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Marseille,MRS,Marseille,MRS,5.37,43.3,France,FR,Air France,,0,,,,,,,,653,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Marseille,MRS,Marseille,MRS,5.37,43.3,France,FR,Air France,,0,,,,,,,,629,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Juarez,MEX,Mexico,MEX,-99.17,19.42,Mexique,MX,Air France,,0,,,,,,,,9209,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Miami,MIA,"Miami, FL",MIA,-80.23,25.79,États-Unis d'Amérique,US,Air France,,0,,,,,,,,7379,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Linate,LIN,Milan,MIL,9.2,45.47,Italie,IT,Air France,,0,,,,,,,,644,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Malpensa,MXP,Milan,MIL,9.2,45.47,Italie,IT,Air France,,0,,,,,,,,599,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International St Paul,MSP,"Minneapolis/St Paul, MN",MSP,-93.27,44.98,États-Unis d'Amérique,US,Air France,,0,,,,,,,,6782,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport International HabiBBourguiba,MIR,Monastir,MIR,10.83,35.76,Tunisie,TN,Transavia France,,0,,,,,,,,1598,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Carrasco,MVD,Montevideo,MVD,-56.18,-34.88,Uruguay,UY,Air France,,1,Buenos Aires,BUE,-58.38,-34.6,Aéroport de Ministro Pistarini,EZE,Argentine,10982,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Mediterranee,MPL,Montpellier,MPL,3.88,43.58,France,FR,Air France,,0,,,,,,,,613,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Mediterranee,MPL,Montpellier,MPL,3.88,43.58,France,FR,Air France,,0,,,,,,,,586,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Mediterranee,MPL,Montpellier,MPL,3.88,43.58,France,FR,Air France,HOP!,0,,,,,,,,586,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Pierre Elliott Trudeau,YUL,Montréal,YMQ,-73.55,45.51,Canada,CA,Air France,,0,,,,,,,,5530,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Sheremetyevo,SVO,Moscou,MOW,37.62,55.76,Russie,RU,Air France,,0,,,,,,,,2457,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,EuroAirport Francais,MLH,Mulhouse/Bâle,MLH,7.55,47.61,France,FR,Air France,HOP!,0,,,,,,,,404,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Mumbai,BOM,Mumbai,BOM,72.85,19.09,Inde,IN,Air France,,0,,,,,,,,7001,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Munich International,MUC,Munich,MUC,11.58,48.14,Allemagne,DE,Air France,,0,,,,,,,,682,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Munich International,MUC,Munich,MUC,11.58,48.14,Allemagne,DE,Transavia France,,0,,,,,,,,695,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Mikonos,JMK,Mykonos,JMK,25.34,37.44,Grèce,GR,Transavia France,,0,,,,,,,,2239,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Nantes Atlantique,NTE,Nantes,NTE,-1.55,47.22,France,FR,Air France,,0,,,,,,,,372,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Nantes Atlantique,NTE,Nantes,NTE,-1.55,47.22,France,FR,Air France,HOP!,0,,,,,,,,343,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Naples,NAP,Naples,NAP,14.28,40.88,Italie,IT,Air France,,0,,,,,,,,1291,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Naples,NAP,Naples,NAP,14.28,40.88,Italie,IT,Transavia France,,0,,,,,,,,1283,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Ndjamena,NDJ,N'Djamena,NDJ,15.04,12.14,Tchad,TD,Air France,,0,,,,,,,,4263,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International John F. Kennedy,JFK,"New York, NY",NYC,-74.01,40.7,États-Unis d'Amérique,US,Air France,,0,,,,,,,,5840,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport International John F. Kennedy,JFK,"New York, NY",NYC,-74.01,40.7,États-Unis d'Amérique,US,Air France,,0,,,,,,,,5839,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Newcastle,NCL,Newcastle,NCL,-1.62,54.98,Royaume-Uni,GB,Air France,Cityjet,0,,,,,,,,731,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Niamey,NIM,Niamey,NIM,2.11,13.48,Niger,NE,Air France,,0,,,,,,,,3954,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Cote D'Azur,NCE,Nice,NCE,7.22,43.66,France,FR,Air France,,0,,,,,,,,695,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Cote D'Azur,NCE,Nice,NCE,7.22,43.66,France,FR,Air France,,0,,,,,,,,676,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Nouakchott,NKC,Nouakchott,NKC,-15.96,18.07,Mauritanie,MR,Air France,,0,,,,,,,,3801,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Nuremberg,NUE,Nuremberg,NUE,11.08,49.45,Allemagne,DE,Air France,HOP!,0,,,,,,,,621,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Es Senia,ORN,Oran,ORN,-0.61,35.7,Algérie,DZ,Air France,,0,,,,,,,,1511,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Kansai,KIX,Osaka,OSA,135.5,34.69,Japon,JP,Air France,,0,,,,,,,,9637,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Oslo,OSL,Oslo,OSL,10.75,59.91,Norvège,NO,Air France,HOP!,0,,,,,,,,1358,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Ouagadougou,OUA,Ouagadougou,OUA,-1.51,12.35,Burkina Faso,BF,Air France,,0,,,,,,,,4097,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Les Angades,OUD,Oujda,OUD,-1.93,34.69,Maroc,MA,Transavia France,,0,,,,,,,,1592,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Ovda,VDA,Ovda,VDA,34.93,29.93,Israël,IL,Transavia France,,0,,,,,,,,3457,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Punta Raisi,PMO,Palerme,PMO,13.36,38.12,Italie,IT,Transavia France,,0,,,,,,,,1456,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Palma Mallorca,PMI,Palma de Majorque,PMI,2.73,39.55,Espagne et Îles Canaries,ES,Air France,,0,,,,,,,,1053,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Palma Mallorca,PMI,Palma de Majorque,PMI,2.73,39.55,Espagne et Îles Canaries,ES,Transavia France,,0,,,,,,,,1022,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Tocumen,PTY,Panama,PTY,-79.52,8.99,Panama,PA,Air France,,0,,,,,,,,8670,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Faaa,PPT,Papeete,PPT,-149.41,-17.68,Polynésie française,PF,Air France,,1,Los Angeles,LAX,-118.24,34.05,Aéroport International Los Angeles,LAX,"CA, États-Unis d'Amérique",15731,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Uzein,PUF,Pau,PUF,-0.37,43.3,France,FR,Air France,HOP!,0,,,,,,,,666,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Uzein,PUF,Pau,PUF,-0.37,43.3,France,FR,Air France,WDL Aviation,0,,,,,,,,666,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Uzein,PUF,Pau,PUF,-0.37,43.3,France,FR,Air France,,0,,,,,,,,632,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Uzein,PUF,Pau,PUF,-0.37,43.3,France,FR,Air France,HOP!,0,,,,,,,,632,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Llabanere,PGF,Perpignan,PGF,2.87,42.74,France,FR,Air France,HOP!,0,,,,,,,,668,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Llabanere,PGF,Perpignan,PGF,2.87,42.74,France,FR,Air France,,0,,,,,,,,668,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Le Raizet,PTP,Pointe-à-Pitre,PTP,-61.53,16.27,Guadeloupe,GP,Air France,,0,,,,,,,,6758,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Pointe Noire,PNR,Pointe-Noire,PNR,11.89,-4.81,Congo,CG,Air France,,0,,,,,,,,6059,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Port Harcourt,PHC,Port Harcourt,PHC,7.01,4.78,Nigéria,NG,Air France,,1,Lagos,LOS,3.42,6.44,Aéroport de Murtala Muhammed,LOS,Nigéria,4915,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Port Harcourt,PHC,Port Harcourt,PHC,7.01,4.78,Nigéria,NG,Air France,,1,Abuja,ABV,7.48,9.07,Aéroport International Abuja,ABV,Nigéria,4915,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Porto,OPO,Porto,OPO,-8.67,41.17,Portugal,PT,Air France,,0,,,,,,,,1233,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Porto,OPO,Porto,OPO,-8.67,41.17,Portugal,PT,Transavia France,,0,,,,,,,,1202,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Prague-Ruzyne,PRG,Prague,PRG,14.44,50.1,République tchèque,CZ,Air France,,0,,,,,,,,853,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Prague-Ruzyne,PRG,Prague,PRG,14.44,50.1,République tchèque,CZ,Transavia France,,0,,,,,,,,874,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Punta Cana,PUJ,Punta Cana,PUJ,-68.38,18.57,République dominicaine,DO,Air France,,0,,,,,,,,7088,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Pluguffan,UIP,Quimper,UIP,-4.1,47.97,France,FR,Air France,HOP!,0,,,,,,,,489,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Sale,RBA,Rabat,RBA,-6.83,34.05,Maroc,MA,Air France,,0,,,,,,,,1833,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de St Jacques,RNS,Rennes,RNS,-1.68,48.11,France,FR,Air France,HOP!,0,,,,,,,,332,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport International Keflavik,KEF,Reykjavik,REK,-21.94,64.13,Islande,IS,Transavia France,,0,,,,,,,,2263,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Internacional,GIG,Rio de Janeiro,RIO,-43.21,-22.87,Brésil,BR,Air France,,0,,,,,,,,9194,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International King Khaled,RUH,Riyad,RUH,46.7,24.71,Arabie saoudite,SA,Air France,,0,,,,,,,,4656,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Fiumicino,FCO,Rome,ROM,12.48,41.89,Italie,IT,Air France,,0,,,,,,,,1102,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Las Americas,SDQ,Saint Domingue,SDQ,-69.98,18.5,République dominicaine,DO,Air France,,0,,,,,,,,7192,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Las Americas,SDQ,Saint Domingue,SDQ,-69.98,18.5,République dominicaine,DO,Air France,,1,Punta Cana,PUJ,-68.38,18.57,Aéroport de Punta Cana,PUJ,République dominicaine,7192,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Princ. Juliana,SXM,Saint-Martin,SXM,-63.05,18.04,St Maarten,SX,Air France,,0,,,,,,,,6746,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International San Francisco,SFO,"San Francisco, CA",SFO,-122.42,37.78,États-Unis d'Amérique,US,Air France,,0,,,,,,,,8972,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Juan Santamaria,SJO,San José,SJO,-84.08,9.95,Costa Rica,CR,Air France,,0,,,,,,,,8945,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Arturo Merino Benitez,SCL,Santiago,SCL,-70.64,-33.47,Chili,CL,Air France,,0,,,,,,,,11685,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Guarulhos,GRU,Sao Paulo,SAO,-46.64,-23.55,Brésil,BR,Air France,,0,,,,,,,,9415,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Incheon,ICN,Séoul,SEL,126.98,37.55,République de Corée,KR,Air France,,0,,,,,,,,8937,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Sevilla,SVQ,Séville,SVQ,-5.98,37.41,Espagne et Îles Canaries,ES,Transavia France,,0,,,,,,,,1424,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de PuDong,PVG,Shanghai,SHA,121.47,31.2,Chine,CN,Air France,,0,,,,,,,,9275,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Changi,SIN,Singapour,SIN,103.85,1.28,Singapour,SG,Air France,,0,,,,,,,,10736,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Vrazhdebna,SOF,Sofia,SOF,23.32,42.7,Bulgarie,BG,Air France,,0,,,,,,,,1756,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Split,SPU,Split,SPU,16.44,43.52,Croatie,HR,Transavia France,,0,,,,,,,,1218,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Gillot,RUN,St Denis de la Réunion,RUN,55.52,-20.88,Île de la Réunion,RE,Air France,,0,,,,,,,,9370,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Pulkovo,LED,St Pétersbourg,LED,30.3,59.93,Russie,RU,Air France,,0,,,,,,,,2136,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Arlanda,ARN,Stockholm,STO,18.06,59.33,Suède,SE,Air France,,0,,,,,,,,1542,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Echterdingen,STR,Stuttgart,STR,9.21,48.78,Allemagne,DE,Air France,HOP!,0,,,,,,,,489,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Boukhalef,TNG,Tanger,TNG,-5.8,35.77,Maroc,MA,Transavia France,,0,,,,,,,,1598,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Imam Khomeini,IKA,Téhéran,THR,51.42,35.69,Iran,IR,Air France,,0,,,,,,,,4200,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Ben Gurion,TLV,Tel-Aviv,TLV,34.78,32.07,Israël,IL,Air France,,0,,,,,,,,3288,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport International Ben Gurion,TLV,Tel-Aviv,TLV,34.78,32.07,Israël,IL,Transavia France,,0,,,,,,,,3288,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Makedonia,SKG,Thessalonique,SKG,22.97,40.64,Grèce,GR,Transavia France,,0,,,,,,,,1862,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Thira,JTR,Thira,JTR,25.48,36.4,Grèce,GR,Transavia France,,0,,,,,,,,2326,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Rinas,TIA,Tirana,TIA,19.83,41.33,Albanie,AL,Transavia France,,0,,,,,,,,1584,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Tivat,TIV,Tivat,TIV,18.73,42.4,Monténégro,ME,Transavia France,,0,,,,,,,,1453,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Haneda,HND,Tokyo,TYO,139.69,35.66,Japon,JP,Air France,,0,,,,,,,,9717,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Narita,NRT,Tokyo,TYO,139.69,35.66,Japon,JP,Air France,,0,,,,,,,,9720,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Pearson,YYZ,Toronto,YTO,-79.38,43.68,Canada,CA,Air France,,0,,,,,,,,6025,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Hyeres,TLN,Toulon,TLN,5.93,43.1,France,FR,Air France,HOP!,0,,,,,,,,692,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport d' Hyeres,TLN,Toulon,TLN,5.93,43.1,France,FR,Air France,,0,,,,,,,,692,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Blagnac,TLS,Toulouse,TLS,1.44,43.63,France,FR,Air France,,0,,,,,,,,605,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Blagnac,TLS,Toulouse,TLS,1.44,43.63,France,FR,Air France,,0,,,,,,,,571,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Carthage,TUN,Tunis,TUN,10.17,36.85,Tunisie,TN,Air France,,0,,,,,,,,1489,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Carthage,TUN,Tunis,TUN,10.17,36.85,Tunisie,TN,Transavia France,,0,,,,,,,,1468,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Citta Di Torino,TRN,Turin,TRN,7.65,45.07,Italie,IT,Air France,Cityjet,0,,,,,,,,573,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Citta Di Torino,TRN,Turin,TRN,7.65,45.07,Italie,IT,Air France,HOP!,0,,,,,,,,573,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Valencia,VLC,Valence,VLC,-0.38,39.47,Espagne et Îles Canaries,ES,Transavia France,,0,,,,,,,,1053,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Vancouver,YVR,Vancouver,YVR,-123.11,49.26,Canada,CA,Air France,,0,,,,,,,,7934,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Frederic Chopin,WAW,Varsovie,WAW,21.01,52.23,Pologne,PL,Air France,,0,,,,,,,,1344,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Marco Polo,VCE,Venise,VCE,12.35,45.44,Italie,IT,Air France,,0,,,,,,,,837,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Marco Polo,VCE,Venise,VCE,12.35,45.44,Italie,IT,Transavia France,,0,,,,,,,,837,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Verona,VRN,Vérone,VRN,10.99,45.47,Italie,IT,Transavia France,,0,,,,,,,,745,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Vienna,VIE,Vienne,VIE,16.37,48.21,Autriche,AT,Air France,,0,,,,,,,,1036,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport International Vienna,VIE,Vienne,VIE,16.37,48.21,Autriche,AT,Transavia France,,0,,,,,,,,1051,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport International Dulles,IAD,"Washington, DC",WAS,-77.03,38.9,États-Unis d'Amérique,US,Air France,,0,,,,,,,,6204,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Wuhan,WUH,Wuhan,WUH,114.32,30.59,Chine,CN,Air France,,0,,,,,,,,8876,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Nsimalen,NSI,Yaoundé,YAO,11.52,3.83,Cameroun,CM,Air France,,1,Bangui,BGF,18.52,4.4,Aéroport de Bangui,BGF,République centrafricaine,5114,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Nsimalen,NSI,Yaoundé,YAO,11.52,3.83,Cameroun,CM,Air France,,0,,,,,,,,5114,LineString
+Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Aéroport de Zadar,ZAD,Zadar,ZAD,15.23,44.1,Croatie,HR,Transavia France,,0,,,,,,,,1120,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Pleso,ZAG,Zagreb,ZAG,15.98,45.81,Croatie,HR,Air France,,0,,,,,,,,1080,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Pleso,ZAG,Zagreb,ZAG,15.98,45.81,Croatie,HR,Air France,HOP!,0,,,,,,,,1080,LineString
+Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Aéroport de Zurich,ZRH,Zurich,ZRH,8.55,47.37,Suisse,CH,Air France,,0,,,,,,,,476,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Aalborg,AAL,Aalborg,AAL,9.92,57.05,Danemark,DK,KLM,KLM Cityhopper,0,,,,,,,,624,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Vigra,AES,Aalesund,AES,6.15,62.47,Norvège,NO,KLM,KLM Cityhopper,0,,,,,,,,1144,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Dyce,ABZ,Aberdeen,ABZ,-2.09,57.15,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,703,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Dyce,ABZ,Aberdeen,ABZ,-2.09,57.15,Royaume-Uni,GB,KLM,,0,,,,,,,,703,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Abu Dhabi,AUH,Abou Dhabi,AUH,54.37,24.43,Émirats arabes unis,AE,KLM,,0,,,,,,,,5197,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Kotoka,ACC,Accra,ACC,-0.17,5.6,Ghana,GH,KLM,,0,,,,,,,,5219,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Agadir Almassira,AGA,Agadir,AGA,-9.6,30.43,Maroc,MA,Transavia,,1,Marrakech,RAK,-8.04,31.61,Aéroport de Menara,RAK,Maroc,2707,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Agadir Almassira,AGA,Agadir,AGA,-9.6,30.43,Maroc,MA,Transavia,,0,,,,,,,,2707,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Campo Dell Oro,AJA,Ajaccio,AJA,8.74,41.92,France,FR,Transavia,,0,,,,,,,,1196,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Alicante,ALC,Alicante,ALC,-0.57,38.28,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1614,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Alicante,ALC,Alicante,ALC,-0.57,38.28,Espagne et Îles Canaries,ES,KLM,,0,,,,,,,,1614,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Almaty,ALA,Almaty,ALA,76.91,43.26,Kazakhstan,KZ,KLM,,0,,,,,,,,5261,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Almaty,ALA,Almaty,ALA,76.91,43.26,Kazakhstan,KZ,KLM,,1,Astana,TSE,71.43,51.17,Aéroport d' Astana,TSE,Kazakhstan,5261,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Almeria,LEI,Almería,LEI,-2.46,36.84,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1811,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Antalya,AYT,Antalya,AYT,30.71,36.91,Turquie,TR,Transavia,,0,,,,,,,,2657,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Reina Beatrix,AUA,Aruba,AUA,-70.01,12.5,Aruba,AW,KLM,,0,,,,,,,,7887,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Reina Beatrix,AUA,Aruba,AUA,-70.01,12.5,Aruba,AW,KLM,,1,Bonaire,BON,-68.27,12.13,Aéroport International Flamingo,BON,"Bonaire, Saint Eustache et Saba",7887,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Astana,TSE,Astana,TSE,71.43,51.17,Kazakhstan,KZ,KLM,,1,Almaty,ALA,76.91,43.26,Aéroport d' Almaty,ALA,Kazakhstan,4440,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Astana,TSE,Astana,TSE,71.43,51.17,Kazakhstan,KZ,KLM,,0,,,,,,,,4440,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Eleftherios Venizelos,ATH,Athènes,ATH,23.73,37.98,Grèce,GR,Transavia,,0,,,,,,,,2184,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Eleftherios Venizelos,ATH,Athènes,ATH,23.73,37.98,Grèce,GR,KLM,,0,,,,,,,,2184,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Hartsfield-Jackson Atlanta,ATL,"Atlanta, GA",ATL,-84.43,33.75,États-Unis d'Amérique,US,KLM,,0,,,,,,,,7073,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Bahrain,BAH,Bahreïn,BAH,50.56,26.07,Bahreïn,BH,KLM,,1,Doha,DOH,51.57,25.26,Aéroport de Doha,DOH,Qatar,4780,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Bahrain,BAH,Bahreïn,BAH,50.56,26.07,Bahreïn,BH,KLM,,1,Koweït,KWI,47.98,29.37,Aéroport International Kuwait,KWI,Koweït,4780,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Bahrain,BAH,Bahreïn,BAH,50.56,26.07,Bahreïn,BH,KLM,,0,,,,,,,,4780,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Suvarnabhumi,BKK,Bangkok,BKK,100.52,13.73,Thaïlande,TH,KLM,,0,,,,,,,,9217,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Barcelona,BCN,Barcelone,BCN,2.17,41.39,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1242,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Barcelona,BCN,Barcelone,BCN,2.17,41.39,Espagne et Îles Canaries,ES,KLM,,0,,,,,,,,1242,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Palese,BRI,Bari,BRI,16.87,41.14,Italie,IT,Transavia,,0,,,,,,,,1540,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Capital,PEK,Beijing,BJS,116.41,39.9,Chine,CN,KLM,,0,,,,,,,,7836,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Belfast City,BHD,Belfast,BFS,-5.92,54.58,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,750,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Beograd,BEG,Belgrade,BEG,20.46,44.82,Serbie,RS,Transavia,,0,,,,,,,,1411,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Flesland,BGO,Bergen,BGO,5.32,60.39,Norvège,NO,KLM,,0,,,,,,,,890,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Flesland,BGO,Bergen,BGO,5.32,60.39,Norvège,NO,KLM,KLM Cityhopper,0,,,,,,,,890,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Roumanieres,EGC,Bergerac,EGC,0.48,44.85,France,FR,Transavia,,0,,,,,,,,888,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Tegel,TXL,Berlin,BER,13.4,52.51,Allemagne,DE,KLM,,0,,,,,,,,579,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Tegel,TXL,Berlin,BER,13.4,52.51,Allemagne,DE,KLM,KLM Cityhopper,0,,,,,,,,579,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Bilbao,BIO,Bilbao,BIO,-2.92,43.3,Espagne et Îles Canaries,ES,KLM,,0,,,,,,,,1154,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Bilbao,BIO,Bilbao,BIO,-2.92,43.3,Espagne et Îles Canaries,ES,KLM,KLM Cityhopper,0,,,,,,,,1154,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Billund,BLL,Billund,BLL,9.15,55.74,Danemark,DK,KLM,KLM Cityhopper,0,,,,,,,,478,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Billund,BLL,Billund,BLL,9.15,55.74,Danemark,DK,KLM,,0,,,,,,,,478,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Birmingham,BHX,Birmingham,BHX,-1.84,52.52,Royaume-Uni,GB,KLM,,0,,,,,,,,443,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Birmingham,BHX,Birmingham,BHX,-1.84,52.52,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,443,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Milas,BJV,Bodrum,BXN,27.43,37.04,Turquie,TR,Transavia,,0,,,,,,,,2448,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Eldorado,BOG,Bogota,BOG,-74.08,4.6,Colombie,CO,KLM,,0,,,,,,,,8850,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Guglielmo Marconi,BLQ,Bologne,BLQ,11.29,44.53,Italie,IT,KLM,KLM Cityhopper,0,,,,,,,,990,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Guglielmo Marconi,BLQ,Bologne,BLQ,11.29,44.53,Italie,IT,KLM,,0,,,,,,,,990,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Flamingo,BON,Bonaire,BON,-68.27,12.13,"Bonaire, Saint Eustache et Saba",BQ,KLM,,1,Aruba,AUA,-70.01,12.5,Aéroport de Reina Beatrix,AUA,Aruba,7800,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Flamingo,BON,Bonaire,BON,-68.27,12.13,"Bonaire, Saint Eustache et Saba",BQ,KLM,,0,,,,,,,,7800,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Bordeaux,BOD,Bordeaux,BOD,-0.58,44.83,France,FR,KLM,KLM Cityhopper,0,,,,,,,,924,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Bordeaux,BOD,Bordeaux,BOD,-0.58,44.83,France,FR,KLM,,0,,,,,,,,924,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Bremen,BRE,Brême,BRE,8.79,53.05,Allemagne,DE,KLM,KLM Cityhopper,0,,,,,,,,283,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Bristol,BRS,Bristol,BRS,-2.59,51.45,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,525,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de National,BRU,Bruxelles,BRU,4.35,50.85,Belgique,BE,KLM,KLM Cityhopper,0,,,,,,,,158,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de National,BRU,Bruxelles,BRU,4.35,50.85,Belgique,BE,KLM,,0,,,,,,,,158,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Otopeni,OTP,Bucarest,BUH,26.1,44.43,Roumanie,RO,KLM,,0,,,,,,,,1785,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Ferihegy,BUD,Budapest,BUD,19.04,47.5,Hongrie,HU,KLM,,0,,,,,,,,1168,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Ministro Pistarini,EZE,Buenos Aires,BUE,-58.38,-34.6,Argentine,AR,KLM,,0,,,,,,,,11473,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Elmas,CAG,Cagliari,CAG,9.12,39.25,Italie,IT,KLM,KLM Cityhopper,0,,,,,,,,1490,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Calgary,YYC,Calgary,YYC,-114.02,51.05,Canada,CA,KLM,,0,,,,,,,,7176,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Alfonso B. Aragon,CLO,Cali,CLO,-76.52,3.42,Colombie,CO,KLM,,1,Bogota,BOG,-74.08,4.6,Aéroport d' Eldorado,BOG,Colombie,9104,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Cardiff-Wales,CWL,Cardiff,CWL,-3.18,51.48,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,566,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Rafael Nunez,CTG,Cartagena,CTG,-75.51,10.45,Colombie,CO,KLM,,1,Bogota,BOG,-74.08,4.6,Aéroport d' Eldorado,BOG,Colombie,8439,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Mohamed V,CMN,Casablanca,CAS,-7.58,33.56,Maroc,MA,Transavia,,0,,,,,,,,2330,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Fontanarossa,CTA,Catane,CTA,15.1,37.51,Italie,IT,Transavia,,0,,,,,,,,1836,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Fontanarossa,CTA,Catane,CTA,15.1,37.51,Italie,IT,KLM,,0,,,,,,,,1836,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Chambery,CMF,Chambéry,CMF,5.88,45.56,France,FR,Transavia,,0,,,,,,,,747,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Chengdu,CTU,Chengdu,CTU,104.07,30.57,Chine,CN,KLM,,0,,,,,,,,7950,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International O'Hare,ORD,"Chicago, IL",CHI,-87.65,41.85,États-Unis d'Amérique,US,KLM,,0,,,,,,,,6619,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Aulnat,CFE,Clermont-Ferrand,CFE,3.09,45.79,France,FR,Air France,HOP!,0,,,,,,,,735,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Bandaranayake,CMB,Colombo,CMB,79.87,6.92,Sri Lanka,LK,KLM,,0,,,,,,,,8377,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Vincent Magliocco Airport,CIY,Comiso,CIY,14.61,36.99,Italie,IT,Transavia,,0,,,,,,,,1870,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Copenhagen,CPH,Copenhague,CPH,12.57,55.68,Danemark,DK,KLM,,0,,,,,,,,634,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Copenhagen,CPH,Copenhague,CPH,12.57,55.68,Danemark,DK,KLM,KLM Cityhopper,0,,,,,,,,634,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' I. Kapodistrias,CFU,Corfou,CFU,19.83,39.6,Grèce,GR,Transavia,,0,,,,,,,,1830,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International J. Paul II Balice,KRK,Cracovie,KRK,19.94,50.08,Pologne,PL,KLM,KLM Cityhopper,0,,,,,,,,1075,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d'Hato,CUR,Curaçao,CUR,-68.96,12.19,Curaçao,CW,KLM,,0,,,,,,,,7842,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Dalaman,DLM,Dalaman,DLM,28.78,36.72,Turquie,TR,Transavia,,0,,,,,,,,2556,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Dalaman,DLM,Dalaman,DLM,28.78,36.72,Turquie,TR,Transavia,,1,Antalya,AYT,30.71,36.91,Aéroport d' Antalya,AYT,Turquie,2556,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International King Fahad,DMM,Dammam,DMM,49.98,26.39,Arabie saoudite,SA,KLM,,0,,,,,,,,4711,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International King Fahad,DMM,Dammam,DMM,49.98,26.39,Arabie saoudite,SA,KLM,,1,Koweït,KWI,47.98,29.37,Aéroport International Kuwait,KWI,Koweït,4711,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Dar Es Salaam,DAR,Dar Es Salaam,DAR,39.27,-6.82,Tanzanie,TZ,KLM,,1,Kilimandjaro,JRO,37.35,-3.07,Aéroport de Kilimanjaro,JRO,Tanzanie,7353,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Indira Gandhi,DEL,Delhi,DEL,77.22,28.64,Inde,IN,KLM,,0,,,,,,,,6370,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Ngurah Rai,DPS,Denpasar-Bali,DPS,115.22,-8.66,Indonésie,ID,KLM,,1,Singapour,SIN,103.85,1.28,Aéroport de Changi,SIN,Singapour,12170,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Doha,DOH,Doha,DOH,51.57,25.26,Qatar,QA,KLM,,0,,,,,,,,4928,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Dresden,DRS,Dresde,DRS,13.77,51.05,Allemagne,DE,KLM,KLM Cityhopper,0,,,,,,,,634,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Dubai,DXB,Dubaï,DXB,55.36,25.25,Émirats arabes unis,AE,Transavia,,0,,,,,,,,5174,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Dubai,DXB,Dubaï,DXB,55.36,25.25,Émirats arabes unis,AE,KLM,,0,,,,,,,,5174,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Dublin,DUB,Dublin,DUB,-6.25,53.35,Irlande,IE,KLM,KLM Cityhopper,0,,,,,,,,752,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Dubrovnik,DBV,Dubrovnik,DBV,18.09,42.65,Croatie,HR,Transavia,,0,,,,,,,,1482,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Durham Tees Valley,MME,Durham,MME,-1.58,54.78,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,478,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Duesseldorf International,DUS,Düsseldorf,DUS,6.77,51.23,Allemagne,DE,KLM,KLM Cityhopper,0,,,,,,,,179,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Edinburgh,EDI,Edimbourg,EDI,-3.21,55.95,Royaume-Uni,GB,KLM,,0,,,,,,,,666,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Edinburgh,EDI,Edimbourg,EDI,-3.21,55.95,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,666,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Edmonton,YEG,Edmonton,YEA,-113.49,53.54,Canada,CA,KLM,,0,,,,,,,,6962,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Entebbe,EBB,Entebbe,EBB,32.44,0.04,Ouganda,UG,KLM,,1,Kigali,KGL,30.06,-1.97,Aéroport de Gregoire Kayibanda,KGL,Rwanda,6365,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,EuroAirport Swiss,BSL,EuroAéroport,EAP,7.53,47.59,Suisse,CH,KLM,KLM Cityhopper,0,,,,,,,,560,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Faro,FAO,Faro,FAO,-7.97,37.01,Portugal,PT,Transavia,,0,,,,,,,,1971,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Peretola,FLR,Florence,FLR,11.2,43.81,Italie,IT,KLM,KLM Cityhopper,0,,,,,,,,1059,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Francfort,FRA,Francfort,FRA,8.69,50.11,Allemagne,DE,KLM,KLM Cityhopper,0,,,,,,,,367,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Francfort,FRA,Francfort,FRA,8.69,50.11,Allemagne,DE,KLM,,0,,,,,,,,367,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Lungi,FNA,Freetown,FNA,-13.2,8.48,Sierra Leone,SL,KLM,,0,,,,,,,,5129,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Fuerteventura,FUE,Fuerteventura,FUE,-14.01,28.4,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,3069,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Madeira,FNC,Funchal,FNC,-16.96,32.76,Portugal,PT,Transavia,,0,,,,,,,,2787,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Lech Walesa,GDN,Gandsk,GDN,18.65,54.37,Pologne,PL,KLM,KLM Cityhopper,0,,,,,,,,938,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Cristoforo Colombo,GOA,Gênes,GOA,8.95,44.41,Italie,IT,KLM,,0,,,,,,,,929,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Cristoforo Colombo,GOA,Gênes,GOA,8.95,44.41,Italie,IT,KLM,KLM Cityhopper,0,,,,,,,,929,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Geneve-Cointrin,GVA,Genève,GVA,6.11,46.24,Suisse,CH,KLM,,0,,,,,,,,682,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Geneve-Cointrin,GVA,Genève,GVA,6.11,46.24,Suisse,CH,KLM,KLM Cityhopper,0,,,,,,,,682,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Costa Brava,GRO,Gérone,GRO,2.82,41.98,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1168,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Glasgow,GLA,Glasgow,GLA,-4.25,55.87,Royaume-Uni,GB,KLM,,0,,,,,,,,718,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Glasgow,GLA,Glasgow,GLA,-4.25,55.87,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,718,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Landvetter,GOT,Göteborg,GOT,11.97,57.67,Suède,SE,KLM,KLM Cityhopper,0,,,,,,,,764,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Landvetter,GOT,Göteborg,GOT,11.97,57.67,Suède,SE,KLM,,0,,,,,,,,764,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport Gran Canaria,LPA,Gran Canaria,LPA,-15.55,27.92,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,3187,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Thalerhof,GRZ,Graz,GRZ,15.44,47.07,Autriche,AT,KLM,KLM Cityhopper,0,,,,,,,,969,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Simon Bolivar,GYE,Guayaquil,GYE,-79.88,-2.15,Équateur,EC,KLM,,1,Quito,UIO,-78.49,-0.22,Aéroport de Mariscal Sucre,UIO,Équateur,9844,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Hamburg,HAM,Hambourg,HAM,9.99,53.55,Allemagne,DE,KLM,KLM Cityhopper,0,,,,,,,,380,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Hamburg,HAM,Hambourg,HAM,9.99,53.55,Allemagne,DE,KLM,,0,,,,,,,,380,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Hangzhou,HGH,Hangzhou,HGH,120.16,30.27,Chine,CN,KLM,,0,,,,,,,,8932,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Hannover,HAJ,Hanovre,HAJ,9.73,52.38,Allemagne,DE,KLM,KLM Cityhopper,0,,,,,,,,335,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Helsinki-Vantaa,HEL,Helsinki,HEL,24.97,60.17,Finlande,FI,Transavia,,0,,,,,,,,1524,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Helsinki-Vantaa,HEL,Helsinki,HEL,24.97,60.17,Finlande,FI,KLM,,0,,,,,,,,1524,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de N. Kazantzakis,HER,Héraklion,HER,25.07,35.2,Grèce,GR,Transavia,,0,,,,,,,,2483,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Hong Kong,HKG,Hong Kong,HKG,114.11,22.4,Hong Kong,HK,KLM,,0,,,,,,,,9284,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de George Bush Intercontinental,IAH,"Houston, TX",HOU,-95.37,29.76,États-Unis d'Amérique,US,KLM,,0,,,,,,,,8056,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Humberside,HUY,Humberside,HUY,-0.35,53.58,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,372,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Ibiza,IBZ,Ibiza,IBZ,1.43,38.87,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1518,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Ibiza,IBZ,Ibiza,IBZ,1.43,38.87,Espagne et Îles Canaries,ES,KLM,,0,,,,,,,,1518,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Kranebitten,INN,Innsbruck,INN,11.4,47.26,Autriche,AT,Transavia,,0,,,,,,,,734,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Inverness,INV,Inverness,INV,-4.22,57.48,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,810,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Ataturk,IST,Istanbul,IST,28.98,40.98,Turquie,TR,KLM,,0,,,,,,,,2213,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Soekarno-Hatta,CGK,Jakarta,JKT,106.85,-6.21,Indonésie,ID,KLM,,1,Kuala Lumpur,KUL,101.69,3.14,Aéroport International Kuala Lumpur,KUL,Malaysie,11365,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International O.R. Tambo,JNB,Johannesbourg,JNB,28.05,-26.2,Afrique du Sud,ZA,KLM,,0,,,,,,,,9027,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Kalamata,KLX,Kalamata,KLX,22.11,37.07,Grèce,GR,Transavia,,1,Kythira,KIT,23.03,36.29,Aéroport de Kithira,KIT,Grèce,2166,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Kalamata,KLX,Kalamata,KLX,22.11,37.07,Grèce,GR,Transavia,,0,,,,,,,,2166,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Pyrzowice,KTW,Katowice,KTW,19.02,50.26,Pologne,PL,Transavia,,0,,,,,,,,1014,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Argostolion,EFL,Kefallinia,EFL,20.57,38.18,Grèce,GR,Transavia,,1,Volos,VOL,22.93,39.38,Aéroport de Nea Anchialos,VOL,Grèce,1996,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Kiev-Borispol,KBP,Kiev,IEV,30.52,50.45,Ukraine,UA,KLM,,0,,,,,,,,1822,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Gregoire Kayibanda,KGL,Kigali,KGL,30.06,-1.97,Rwanda,RW,KLM,,0,,,,,,,,6494,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Kilimanjaro,JRO,Kilimandjaro,JRO,37.35,-3.07,Tanzanie,TZ,KLM,,0,,,,,,,,6909,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Kos,KGS,Kos,KGS,27.1,36.79,Grèce,GR,Transavia,,0,,,,,,,,2454,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Kuwait,KWI,Koweït,KWI,47.98,29.37,Koweït,KW,KLM,,1,Dammam,DMM,49.98,26.39,Aéroport International King Fahad,DMM,Arabie saoudite,4361,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Kuwait,KWI,Koweït,KWI,47.98,29.37,Koweït,KW,KLM,,0,,,,,,,,4361,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Kuwait,KWI,Koweït,KWI,47.98,29.37,Koweït,KW,KLM,,1,Bahreïn,BAH,50.56,26.07,Aéroport International Bahrain,BAH,Bahreïn,4361,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Kjevik,KRS,Kristiansand,KRS,8,58.15,Norvège,NO,KLM,KLM Cityhopper,0,,,,,,,,689,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Kuala Lumpur,KUL,Kuala Lumpur,KUL,101.69,3.14,Malaysie,MY,KLM,,0,,,,,,,,10248,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Kithira,KIT,Kythira,KIT,23.03,36.29,Grèce,GR,Transavia,,0,,,,,,,,2288,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Souda,CHQ,La Canée,CHQ,24.02,35.53,Grèce,GR,Transavia,,0,,,,,,,,2414,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Jose Marti,HAV,La Havane,HAV,-82.41,23.12,Cuba,CU,KLM,,0,,,,,,,,7828,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Murtala Muhammed,LOS,Lagos,LOS,3.42,6.44,Nigéria,NG,KLM,,0,,,,,,,,5092,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Lanzarote,ACE,Lanzarote,ACE,-13.59,29.05,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,3009,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Larnaca,LCA,Larnaca,LCA,33.63,34.88,Chypre,CY,Transavia,,0,,,,,,,,2995,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Cape Town,CPT,Le Cap,CPT,18.42,-33.96,Afrique du Sud,ZA,KLM,,0,,,,,,,,9698,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Leeds/Bradford,LBA,Leeds Bradford,LBA,-1.58,53.83,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,463,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International J Chavez,LIM,Lima,LIM,-77.06,-12.03,Pérou,PE,KLM,,0,,,,,,,,10532,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Linkoping,LPI,Linköping,LPI,15.62,58.4,Suède,SE,KLM,KLM Cityhopper,0,,,,,,,,966,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Lisboa,LIS,Lisbonne,LIS,-9.13,38.73,Portugal,PT,Transavia,,0,,,,,,,,1848,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Lisboa,LIS,Lisbonne,LIS,-9.13,38.73,Portugal,PT,KLM,,0,,,,,,,,1848,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Brnik,LJU,Ljubljana,LJU,14.51,46.06,Slovénie,SI,Transavia,,0,,,,,,,,975,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de London City,LCY,Londres,LON,-0.13,51.51,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,335,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Heathrow,LHR,Londres,LON,-0.13,51.51,Royaume-Uni,GB,KLM,,0,,,,,,,,370,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Heathrow,LHR,Londres,LON,-0.13,51.51,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,370,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Los Angeles,LAX,"Los Angeles, CA",LAX,-118.24,34.05,États-Unis d'Amérique,US,KLM,,0,,,,,,,,8966,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de 4 de Fevereiro,LAD,Luanda,LAD,13.24,-8.85,Angola,AO,KLM,,0,,,,,,,,6856,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Luxembourg,LUX,Luxembourg,LUX,6.13,49.63,Luxembourg,LU,KLM,KLM Cityhopper,0,,,,,,,,315,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Lyon St-Exupéry,LYS,Lyon,LYS,4.84,45.73,France,FR,KLM,KLM Cityhopper,0,,,,,,,,734,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Lyon St-Exupéry,LYS,Lyon,LYS,4.84,45.73,France,FR,KLM,,0,,,,,,,,734,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Barajas,MAD,Madrid,MAD,-3.69,40.47,Espagne et Îles Canaries,ES,KLM,,0,,,,,,,,1463,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Mahon,MAH,Mahon,MAH,4.11,39.95,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1386,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Malaga,AGP,Málaga,AGP,-4.42,36.73,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1886,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Malaga,AGP,Málaga,AGP,-4.42,36.73,Espagne et Îles Canaries,ES,KLM,,0,,,,,,,,1886,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Luqa,MLA,Malte,MLA,14.38,35.94,Malte,MT,Transavia,,0,,,,,,,,1984,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Manchester,MAN,Manchester,MAN,-2.28,53.5,Royaume-Uni,GB,KLM,,0,,,,,,,,488,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Manchester,MAN,Manchester,MAN,-2.28,53.5,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,488,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Ninoy Aquino,MNL,Manille,MNL,121.02,14.6,Philippines,PH,KLM,,1,Taipei,TPE,121.54,25.07,Aéroport International Taiwan Taoyuan,TPE,Taïwan,10424,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Menara,RAK,Marrakech,RAK,-8.04,31.61,Maroc,MA,Transavia,,0,,,,,,,,2528,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Menara,RAK,Marrakech,RAK,-8.04,31.61,Maroc,MA,Transavia,,1,Agadir,AGA,-9.6,30.43,Aéroport d' Agadir Almassira,AGA,Maroc,2528,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Marseille,MRS,Marseille,MRS,5.37,43.3,France,FR,Air France,,0,,,,,,,,988,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Seeb,MCT,Mascate,MCT,58.54,23.59,Oman,OM,KLM,,1,Dammam,DMM,49.98,26.39,Aéroport International King Fahad,DMM,Arabie saoudite,5507,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Seeb,MCT,Mascate,MCT,58.54,23.59,Oman,OM,KLM,,1,Abou Dhabi,AUH,54.37,24.43,Aéroport International Abu Dhabi,AUH,Émirats arabes unis,5507,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Juarez,MEX,Mexico,MEX,-99.17,19.42,Mexique,MX,KLM,,0,,,,,,,,9217,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Miami,MIA,"Miami, FL",MIA,-80.23,25.79,États-Unis d'Amérique,US,KLM,,0,,,,,,,,7451,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Linate,LIN,Milan,MIL,9.2,45.47,Italie,IT,KLM,,0,,,,,,,,832,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Malpensa,MXP,Milan,MIL,9.2,45.47,Italie,IT,KLM,,0,,,,,,,,797,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Malpensa,MXP,Milan,MIL,9.2,45.47,Italie,IT,KLM,KLM Cityhopper,0,,,,,,,,797,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International St Paul,MSP,"Minneapolis/St Paul, MN",MSP,-93.27,44.98,États-Unis d'Amérique,US,KLM,,0,,,,,,,,6692,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Roberts,ROB,Monrovia,MLW,-10.76,6.29,Libéria,LR,KLM,,1,Freetown,FNA,-13.2,8.48,Aéroport International Lungi,FNA,Sierra Leone,5312,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Mediterranee,MPL,Montpellier,MPL,3.88,43.58,France,FR,KLM,KLM Cityhopper,0,,,,,,,,974,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Mediterranee,MPL,Montpellier,MPL,3.88,43.58,France,FR,KLM,,0,,,,,,,,974,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Pierre Elliott Trudeau,YUL,Montréal,YMQ,-73.55,45.51,Canada,CA,KLM,,0,,,,,,,,5509,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Sheremetyevo,SVO,Moscou,MOW,37.62,55.76,Russie,RU,KLM,,0,,,,,,,,2147,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Munich International,MUC,Munich,MUC,11.58,48.14,Allemagne,DE,Transavia,,0,,,,,,,,665,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Munich International,MUC,Munich,MUC,11.58,48.14,Allemagne,DE,KLM,,0,,,,,,,,665,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Munich International,MUC,Munich,MUC,11.58,48.14,Allemagne,DE,KLM,KLM Cityhopper,0,,,,,,,,665,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Mikonos,JMK,Mykonos,JMK,25.34,37.44,Grèce,GR,Transavia,,0,,,,,,,,2303,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Jomo Kenyatta,NBO,Nairobi,NBO,36.82,-1.32,Kenya,KE,KLM,,0,,,,,,,,6685,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Nantes Atlantique,NTE,Nantes,NTE,-1.55,47.22,France,FR,Air France,HOP!,0,,,,,,,,734,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Nantes Atlantique,NTE,Nantes,NTE,-1.55,47.22,France,FR,Air France,,0,,,,,,,,734,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Naples,NAP,Naples,NAP,14.28,40.88,Italie,IT,Transavia,,0,,,,,,,,1463,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International John F. Kennedy,JFK,"New York, NY",NYC,-74.01,40.7,États-Unis d'Amérique,US,KLM,,0,,,,,,,,5853,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Newcastle,NCL,Newcastle,NCL,-1.62,54.98,Royaume-Uni,GB,KLM,,0,,,,,,,,523,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Newcastle,NCL,Newcastle,NCL,-1.62,54.98,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,523,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Cote D'Azur,NCE,Nice,NCE,7.22,43.66,France,FR,Transavia,,0,,,,,,,,980,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Cote D'Azur,NCE,Nice,NCE,7.22,43.66,France,FR,KLM,,0,,,,,,,,980,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Cote D'Azur,NCE,Nice,NCE,7.22,43.66,France,FR,KLM,KLM Cityhopper,0,,,,,,,,980,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Norwich,NWI,Norwich,NWI,1.3,52.63,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,240,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Nuremberg,NUE,Nuremberg,NUE,11.08,49.45,Allemagne,DE,KLM,KLM Cityhopper,0,,,,,,,,542,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Nuremberg,NUE,Nuremberg,NUE,11.08,49.45,Allemagne,DE,KLM,,0,,,,,,,,542,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Costa Smeralda,OLB,Olbia,OLB,9.5,40.92,Italie,IT,Transavia,,0,,,,,,,,1320,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Kansai,KIX,Osaka,OSA,135.5,34.69,Japon,JP,KLM,,0,,,,,,,,9252,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Oslo,OSL,Oslo,OSL,10.75,59.91,Norvège,NO,KLM,KLM Cityhopper,0,,,,,,,,961,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Oslo,OSL,Oslo,OSL,10.75,59.91,Norvège,NO,KLM,,0,,,,,,,,961,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Sandefjord,TRF,Oslo,OSL,10.75,59.91,Norvège,NO,KLM,KLM Cityhopper,0,,,,,,,,838,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Punta Raisi,PMO,Palerme,PMO,13.36,38.12,Italie,IT,Transavia,,0,,,,,,,,1701,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Palma Mallorca,PMI,Palma de Majorque,PMI,2.73,39.55,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1429,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Tocumen,PTY,Panama,PTY,-79.52,8.99,Panama,PA,KLM,,0,,,,,,,,8822,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Paphos,PFO,Paphos,PFO,32.43,34.77,Chypre,CY,Transavia,,0,,,,,,,,2940,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Zanderij,PBM,Paramaribo,PBM,-55.19,5.82,Suriname,SR,KLM,,0,,,,,,,,7532,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Air France,,0,,,,,,,,399,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,KLM,,0,,,,,,,,399,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Transavia,,0,,,,,,,,433,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Transavia France,,0,,,,,,,,433,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Gal Galilei,PSA,Pise,PSA,10.39,43.68,Italie,IT,Transavia,,0,,,,,,,,1048,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Porto,OPO,Porto,OPO,-8.67,41.17,Portugal,PT,Transavia,,0,,,,,,,,1596,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Porto,OPO,Porto,OPO,-8.67,41.17,Portugal,PT,KLM,,0,,,,,,,,1596,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Prague-Ruzyne,PRG,Prague,PRG,14.44,50.1,République tchèque,CZ,KLM,,0,,,,,,,,707,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Prague-Ruzyne,PRG,Prague,PRG,14.44,50.1,République tchèque,CZ,KLM,KLM Cityhopper,0,,,,,,,,707,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Prague-Ruzyne,PRG,Prague,PRG,14.44,50.1,République tchèque,CZ,KLM,AN TRANSAVIA AIRCRAFT,0,,,,,,,,707,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Aktion,PVK,Preveza/Lefkas,PVK,20.77,38.93,Grèce,GR,Transavia,,0,,,,,,,,1933,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Mariscal Sucre,UIO,Quito,UIO,-78.49,-0.22,Équateur,EC,KLM,,0,,,,,,,,9561,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de St Jacques,RNS,Rennes,RNS,-1.68,48.11,France,FR,Air France,HOP!,0,,,,,,,,660,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Reus,REU,Reus,REU,1.11,41.15,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1271,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Diagoras,RHO,Rhodes,RHO,27.97,36.16,Grèce,GR,Transavia,,0,,,,,,,,2544,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Internacional,GIG,Rio de Janeiro,RIO,-43.21,-22.87,Brésil,BR,KLM,,0,,,,,,,,9571,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Fiumicino,FCO,Rome,ROM,12.48,41.89,Italie,IT,KLM,,0,,,,,,,,1299,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Princ. Juliana,SXM,Saint-Martin,SXM,-63.05,18.04,St Maarten,SX,KLM,,0,,,,,,,,6941,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Amilcar Cabral,SID,Sal Island,SID,-22.95,16.75,Cap-Vert,CV,Transavia,,0,,,,,,,,4645,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Amilcar Cabral,SID,Sal Island,SID,-22.95,16.75,Cap-Vert,CV,Transavia,,1,Faro,FAO,-7.97,37.01,Aéroport de Faro,FAO,Portugal,4645,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Salt Lake City,SLC,"Salt Lake City, UT",SLC,-111.89,40.78,États-Unis d'Amérique,US,KLM,,0,,,,,,,,8018,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de W. A. Mozart,SZG,Salzbourg,SZG,13.01,47.79,Autriche,AT,Transavia,,0,,,,,,,,774,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Samos,SMI,Samos,SMI,26.82,37.74,Grèce,GR,Transavia,,0,,,,,,,,2367,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Samos,SMI,Samos,SMI,26.82,37.74,Grèce,GR,Transavia,,1,Mykonos,JMK,25.34,37.44,Aéroport de Mikonos,JMK,Grèce,2367,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International San Francisco,SFO,"San Francisco, CA",SFO,-122.42,37.78,États-Unis d'Amérique,US,KLM,,0,,,,,,,,8795,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport La Palma,SPC,Santa Cruz de Tenerife,SPC,-17.76,28.68,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,3225,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Arturo Merino Benitez,SCL,Santiago,SCL,-70.64,-33.47,Chili,CL,KLM,,1,Buenos Aires,BUE,-58.38,-34.6,Aéroport de Ministro Pistarini,BUE,Argentine,12015,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Guarulhos,GRU,Sao Paulo,SAO,-46.64,-23.55,Brésil,BR,KLM,,0,,,,,,,,9786,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Incheon,ICN,Séoul,SEL,126.98,37.55,République de Corée,KR,KLM,,0,,,,,,,,8562,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Sevilla,SVQ,Séville,SVQ,-5.98,37.41,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1854,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de PuDong,PVG,Shanghai,SHA,121.47,31.2,Chine,CN,KLM,,0,,,,,,,,8919,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Changi,SIN,Singapour,SIN,103.85,1.28,Singapour,SG,KLM,,0,,,,,,,,10524,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Vrazhdebna,SOF,Sofia,SOF,23.32,42.7,Bulgarie,BG,Transavia,,0,,,,,,,,1754,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Eastleigh,SOU,Southampton,SOU,-1.4,50.9,Royaume-Uni,GB,KLM,KLM Cityhopper,0,,,,,,,,449,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Split,SPU,Split,SPU,16.44,43.52,Croatie,HR,KLM,,0,,,,,,,,1299,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Split,SPU,Split,SPU,16.44,43.52,Croatie,HR,KLM,KLM Cityhopper,0,,,,,,,,1299,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Pulkovo,LED,St Pétersbourg,LED,30.3,59.93,Russie,RU,KLM,,0,,,,,,,,1775,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Sola,SVG,Stavanger,SVG,5.73,58.97,Norvège,NO,KLM,KLM Cityhopper,0,,,,,,,,734,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Sola,SVG,Stavanger,SVG,5.73,58.97,Norvège,NO,KLM,,0,,,,,,,,734,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Arlanda,ARN,Stockholm,STO,18.06,59.33,Suède,SE,KLM,,0,,,,,,,,1156,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Arlanda,ARN,Stockholm,STO,18.06,59.33,Suède,SE,KLM,KLM Cityhopper,0,,,,,,,,1156,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Entzheim,SXB,Strasbourg,SXB,7.75,48.58,France,FR,Air France,HOP!,0,,,,,,,,467,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport d' Echterdingen,STR,Stuttgart,STR,9.21,48.78,Allemagne,DE,KLM,KLM Cityhopper,0,,,,,,,,512,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Taiwan Taoyuan,TPE,Taipei,TPE,121.54,25.07,Taïwan,TW,KLM,,0,,,,,,,,9452,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Imam Khomeini,IKA,Téhéran,THR,51.42,35.69,Iran,IR,KLM,,0,,,,,,,,4080,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Ben Gurion,TLV,Tel-Aviv,TLV,34.78,32.07,Israël,IL,Transavia,,0,,,,,,,,3315,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Ben Gurion,TLV,Tel-Aviv,TLV,34.78,32.07,Israël,IL,KLM,,0,,,,,,,,3315,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Tenerife-Sud,TFS,Ténérife,TCI,-16.63,28.29,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,3227,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Makedonia,SKG,Thessalonique,SKG,22.97,40.64,Grèce,GR,Transavia,,0,,,,,,,,1907,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Thira,JTR,Thira,JTR,25.48,36.4,Grèce,GR,Transavia,,0,,,,,,,,2403,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Rinas,TIA,Tirana,TIA,19.83,41.33,Albanie,AL,Transavia,,0,,,,,,,,1658,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Narita,NRT,Tokyo,TYO,139.69,35.66,Japon,JP,KLM,,0,,,,,,,,9329,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Pearson,YYZ,Toronto,YTO,-79.38,43.68,Canada,CA,KLM,,0,,,,,,,,5996,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Blagnac,TLS,Toulouse,TLS,1.44,43.63,France,FR,KLM,KLM Cityhopper,0,,,,,,,,998,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Blagnac,TLS,Toulouse,TLS,1.44,43.63,France,FR,KLM,,0,,,,,,,,998,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Vaernes,TRD,Trondheim,TRD,10.4,63.45,Norvège,NO,KLM,KLM Cityhopper,0,,,,,,,,1292,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Citta Di Torino,TRN,Turin,TRN,7.65,45.07,Italie,IT,Transavia,,0,,,,,,,,819,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Citta Di Torino,TRN,Turin,TRN,7.65,45.07,Italie,IT,KLM,KLM Cityhopper,0,,,,,,,,819,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Valencia,VLC,Valence,VLC,-0.38,39.47,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1482,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Valencia,VLC,Valence,VLC,-0.38,39.47,Espagne et Îles Canaries,ES,KLM,,0,,,,,,,,1482,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Vancouver,YVR,Vancouver,YVR,-123.11,49.26,Canada,CA,KLM,,0,,,,,,,,7715,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Frederic Chopin,WAW,Varsovie,WAW,21.01,52.23,Pologne,PL,KLM,,0,,,,,,,,1102,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Frederic Chopin,WAW,Varsovie,WAW,21.01,52.23,Pologne,PL,KLM,KLM Cityhopper,0,,,,,,,,1102,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Marco Polo,VCE,Venise,VCE,12.35,45.44,Italie,IT,Transavia,,0,,,,,,,,938,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Marco Polo,VCE,Venise,VCE,12.35,45.44,Italie,IT,KLM,,0,,,,,,,,938,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Marco Polo,VCE,Venise,VCE,12.35,45.44,Italie,IT,KLM,KLM Cityhopper,0,,,,,,,,938,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Verona,VRN,Vérone,VRN,10.99,45.47,Italie,IT,Transavia,,0,,,,,,,,890,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Vienna,VIE,Vienne,VIE,16.37,48.21,Autriche,AT,KLM,,0,,,,,,,,961,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Nea Anchialos,VOL,Volos,VOL,22.93,39.38,Grèce,GR,Transavia,,0,,,,,,,,2010,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Dulles,IAD,"Washington, DC",WAS,-77.03,38.9,États-Unis d'Amérique,US,KLM,,0,,,,,,,,6214,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport International Hosea Kutako,WDH,Windhoek,WDH,17.08,-22.56,Namibie,NA,KLM,,1,Luanda,LAD,13.24,-8.85,Aéroport de 4 de Fevereiro,LAD,Angola,8417,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Xiamen,XMN,Xiamen,XMN,118.12,24.47,Chine,CN,KLM,,0,,,,,,,,9328,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Pleso,ZAG,Zagreb,ZAG,15.98,45.81,Croatie,HR,KLM,,0,,,,,,,,1101,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Pleso,ZAG,Zagreb,ZAG,15.98,45.81,Croatie,HR,KLM,KLM Cityhopper,0,,,,,,,,1101,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Zakinthos,ZTH,Zakinthos Island,ZTH,20.78,37.76,Grèce,GR,Transavia,,0,,,,,,,,2049,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Zurich,ZRH,Zurich,ZRH,8.55,47.37,Suisse,CH,Transavia,,0,,,,,,,,604,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Zurich,ZRH,Zurich,ZRH,8.55,47.37,Suisse,CH,KLM,KLM Cityhopper,0,,,,,,,,604,LineString
+Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,Aéroport de Zurich,ZRH,Zurich,ZRH,8.55,47.37,Suisse,CH,KLM,,0,,,,,,,,604,LineString
+Aéroport de Geneve-Cointrin,GVA,Genève,GVA,6.11,46.24,Suisse,CH,Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,KLM,,0,,,,,,,,682,LineString
+Aéroport de Geneve-Cointrin,GVA,Genève,GVA,6.11,46.24,Suisse,CH,Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,KLM,KLM Cityhopper,0,,,,,,,,682,LineString
+Aéroport de Geneve-Cointrin,GVA,Genève,GVA,6.11,46.24,Suisse,CH,Aéroport de Biarritz Parme,BIQ,Biarritz,BIQ,-1.52,43.47,France,FR,HOP!,,0,,,,,,,,676,LineString
+Aéroport de Geneve-Cointrin,GVA,Genève,GVA,6.11,46.24,Suisse,CH,Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Air France,,0,,,,,,,,409,LineString
+Aéroport de Geneve-Cointrin,GVA,Genève,GVA,6.11,46.24,Suisse,CH,Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Transavia,,0,,,,,,,,649,LineString
+Aéroport de London City,LCY,Londres,LON,-0.13,51.51,Royaume-Uni,GB,Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,KLM,KLM Cityhopper,0,,,,,,,,335,LineString
+Aéroport d' Heathrow,LHR,Londres,LON,-0.13,51.51,Royaume-Uni,GB,Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,KLM,,0,,,,,,,,370,LineString
+Aéroport d' Heathrow,LHR,Londres,LON,-0.13,51.51,Royaume-Uni,GB,Aéroport d' Amsterdam-Schiphol,AMS,Amsterdam,AMS,4.9,52.37,Pays-Bas,NL,KLM,KLM Cityhopper,0,,,,,,,,370,LineString
+Aéroport d' Heathrow,LHR,Londres,LON,-0.13,51.51,Royaume-Uni,GB,Aéroport de Charles De Gaulle,CDG,Paris,PAR,2.35,48.86,France,FR,Air France,,0,,,,,,,,348,LineString
+Aéroport de Luton,LTN,Londres,LON,-0.13,51.51,Royaume-Uni,GB,Aéroport de Paris-Orly,ORY,Paris,PAR,2.35,48.86,France,FR,Transavia France,,0,,,,,,,,401,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport d' Alicante,ALC,Alicante,ALC,-0.57,38.28,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1571,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Barcelona,BCN,Barcelone,BCN,2.17,41.39,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1201,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Roumanieres,EGC,Bergerac,EGC,0.48,44.85,France,FR,Transavia,,0,,,,,,,,843,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Schoenefeld,SXF,Berlin,BER,13.4,52.51,Allemagne,DE,Transavia,,0,,,,,,,,620,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Ferihegy,BUD,Budapest,BUD,19.04,47.5,Hongrie,HU,Transavia,,0,,,,,,,,1175,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Chambery,CMF,Chambéry,CMF,5.88,45.56,France,FR,Transavia,,0,,,,,,,,711,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Faro,FAO,Faro,FAO,-7.97,37.01,Portugal,PT,Transavia,,0,,,,,,,,1928,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Geneve-Cointrin,GVA,Genève,GVA,6.11,46.24,Suisse,CH,Transavia,,0,,,,,,,,649,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Costa Brava,GRO,Gérone,GRO,2.82,41.98,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1127,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport Gran Canaria,LPA,Gran Canaria,LPA,-15.55,27.92,Espagne et Îles Canaries,ES,Transavia,,1,Ténérife,TCI,-16.63,28.29,Tenerife-Sud,TFS,Espagne et Îles Canaries,3141,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport Gran Canaria,LPA,Gran Canaria,LPA,-15.55,27.92,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,3141,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport d' Ibiza,IBZ,Ibiza,IBZ,1.43,38.87,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1476,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Kranebitten,INN,Innsbruck,INN,11.4,47.26,Autriche,AT,Transavia,,0,,,,,,,,721,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Saint Geoirs,GNB,Lyon,LYS,4.84,45.73,France,FR,Transavia,,0,,,,,,,,737,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Malaga,AGP,Málaga,AGP,-4.42,36.73,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1841,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Mediterranee,MPL,Montpellier,MPL,3.88,43.58,France,FR,Transavia,,0,,,,,,,,933,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Palma Mallorca,PMI,Palma de Majorque,PMI,2.73,39.55,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1387,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Gal Galilei,PSA,Pise,PSA,10.39,43.68,Italie,IT,Transavia,,0,,,,,,,,1022,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Pula,PUY,Pula,PUY,13.85,44.89,Croatie,HR,Transavia,,0,,,,,,,,1051,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Fiumicino,FCO,Rome,ROM,12.48,41.89,Italie,IT,Transavia,,0,,,,,,,,1275,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de W. A. Mozart,SZG,Salzbourg,SZG,13.01,47.79,Autriche,AT,Transavia,,0,,,,,,,,769,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Split,SPU,Split,SPU,16.44,43.52,Croatie,HR,Transavia,,0,,,,,,,,1287,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Tenerife-Sud,TFS,Ténérife,TCI,-16.63,28.29,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,3183,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport d' Hyeres,TLN,Toulon,TLN,5.93,43.1,France,FR,Transavia,,0,,,,,,,,995,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Valencia,VLC,Valence,VLC,-0.38,39.47,Espagne et Îles Canaries,ES,Transavia,,0,,,,,,,,1439,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport de Marco Polo,VCE,Venise,VCE,12.35,45.44,Italie,IT,Transavia,,0,,,,,,,,922,LineString
+Aéroport de Rotterdam,RTM,Rotterdam,RTM,4.44,51.96,Pays-Bas,NL,Aéroport International Vienna,VIE,Vienne,VIE,16.37,48.21,Autriche,AT,Transavia,,0,,,,,,,,966,LineString

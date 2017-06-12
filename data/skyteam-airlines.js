@@ -1,0 +1,22 @@
+var airlines = [
+	{name:"Aeroflot", iata:"SU"},
+	{name:"Aerolineas Argentinas", iata:"AR"},
+	{name:"AeroMexico", iata:"AM"},
+	{name:"Air Europa", iata:"UX"},
+	{name:"Air France", iata:"AF"},
+	{name:"Alitalia", iata:"AZ"},
+	{name:"China Airlines", iata:"CI"},
+	{name:"China Eastern", iata:"MU"},
+	{name:"China Southern", iata:"CZ"},
+	{name:"Czech", iata:"OK"},
+	{name:"Delta", iata:"DL"},
+	{name:"Garuda Indonesia", iata:"GA"},
+	{name:"Kenya Airways", iata:"KQ"},
+	{name:"KLM", iata:"KL"},
+	{name:"Korean Air", iata:"KE"},
+	{name:"Middle East Airlines", iata:"ME"},
+	{name:"Saudia", iata:"SV"},
+	{name:"Tarom", iata:"RO"},
+	{name:"Vietnam Airlines", iata:"VN"},
+	{name:"Xiamenair", iata:"MF"}
+];
